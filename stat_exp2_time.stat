@@ -1176,14 +1176,6 @@ exp2 25 25 500 method1 2.238
 exp2 25 25 500 method2 2.238
 exp2 25 25 true method1 2.516
 exp2 25 25 true method2 2.293
-exp2 25 25 100 method1 .
-exp2 25 25 100 method1 .
-exp2 25 25 100 method1 .
-exp2 25 25 100 method1 .
-exp2 25 25 100 method2 .
-exp2 25 25 100 method2 .
-exp2 25 25 100 method2 .
-exp2 25 25 100 method2 .
 exp2 25 25 500 method1 2.295
 exp2 25 25 500 method2 2.295
 exp2 25 25 true method1 2.539
