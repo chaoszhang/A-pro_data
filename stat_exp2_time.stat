@@ -1,1806 +1,1806 @@
-exp2 100  true method1 3.81
-exp2 100  true method2 3.141
-exp2 100  100 method1 3.753
-exp2 100  100 method2 3.277
-exp2 100  500 method1 3.375
-exp2 100  500 method2 3.375
-exp2 100  true method1 3.435
-exp2 100  true method2 3.011
-exp2 100  100 method1 3.224
-exp2 100  100 method2 3.242
-exp2 100  500 method1 2.854
-exp2 100  500 method2 2.854
-exp2 100  true method1 3.86
-exp2 100  true method2 3.144
-exp2 100  100 method1 3.718
-exp2 100  100 method2 3.191
-exp2 100  500 method1 3.283
-exp2 100  500 method2 3.283
-exp2 100  true method1 3.557
-exp2 100  true method2 3.367
-exp2 100  100 method1 3.783
-exp2 100  100 method2 3.457
-exp2 100  500 method1 3.398
-exp2 100  500 method2 3.398
-exp2 100  true method1 3.4
-exp2 100  true method2 3.107
-exp2 100  100 method1 3.543
-exp2 100  100 method2 3.053
-exp2 100  500 method1 3.134
-exp2 100  500 method2 3.134
-exp2 100  true method1 3.491
-exp2 100  true method2 3.144
-exp2 100  100 method1 3.457
-exp2 100  100 method2 3.126
-exp2 100  500 method1 3.436
-exp2 100  500 method2 3.436
-exp2 100  true method1 3.337
-exp2 100  true method2 3.103
-exp2 100  100 method1 3.327
-exp2 100  100 method2 3.46
-exp2 100  500 method1 3.437
-exp2 100  500 method2 3.437
-exp2 100  true method1 3.436
-exp2 100  true method2 3.157
-exp2 100  100 method1 2.513
-exp2 100  100 method2 2.683
-exp2 100  500 method1 2.301
-exp2 100  500 method2 2.301
-exp2 100  true method1 3.729
-exp2 100  true method2 3.19
-exp2 100  100 method1 2.752
-exp2 100  100 method2 2.659
-exp2 100  500 method1 2.612
-exp2 100  500 method2 2.612
-exp2 100  true method1 3.601
-exp2 100  true method2 3.379
-exp2 100  100 method1 2.632
-exp2 100  100 method2 2.612
-exp2 100  500 method1 2.608
-exp2 100  500 method2 2.608
-exp2 100  true method1 3.28
-exp2 100  true method2 3.23
-exp2 100  100 method1 2.456
-exp2 100  100 method2 2.46
-exp2 100  500 method1 2.497
-exp2 100  500 method2 2.497
-exp2 100  true method1 2.914
-exp2 100  true method2 2.845
-exp2 100  100 method1 3.253
-exp2 100  100 method2 3.014
-exp2 100  500 method1 2.85
-exp2 100  500 method2 2.85
-exp2 100  true method1 3.471
-exp2 100  true method2 3.207
-exp2 100  100 method1 3.269
-exp2 100  100 method2 3.467
-exp2 100  500 method1 3.098
-exp2 100  500 method2 3.098
-exp2 100  true method1 3.16
-exp2 100  true method2 2.889
-exp2 100  100 method1 3.238
-exp2 100  100 method2 2.834
-exp2 100  500 method1 2.884
-exp2 100  500 method2 2.884
-exp2 100  true method1 3.413
-exp2 100  true method2 3.199
-exp2 100  100 method1 2.454
-exp2 100  100 method2 2.522
-exp2 100  500 method1 2.47
-exp2 100  500 method2 2.47
-exp2 100  true method1 3.746
-exp2 100  true method2 3.436
-exp2 100  100 method1 3.539
-exp2 100  100 method2 3.327
-exp2 100  500 method1 3.29
-exp2 100  500 method2 3.29
-exp2 100  true method1 3.427
-exp2 100  true method2 3.065
-exp2 100  100 method1 3.58
-exp2 100  100 method2 2.99
-exp2 100  500 method1 3.519
-exp2 100  500 method2 3.519
-exp2 100  true method1 3.521
-exp2 100  true method2 3.251
-exp2 100  100 method1 3.26
-exp2 100  100 method2 3.248
-exp2 100  500 method1 3.268
-exp2 100  500 method2 3.268
-exp2 100  true method1 3.712
-exp2 100  true method2 3.355
-exp2 100  100 method1 3.516
-exp2 100  100 method2 3.38
-exp2 100  500 method1 3.485
-exp2 100  500 method2 3.485
-exp2 100  true method1 3.462
-exp2 100  true method2 3.296
-exp2 100  100 method1 2.672
-exp2 100  100 method2 2.699
-exp2 100  500 method1 2.482
-exp2 100  500 method2 2.482
-exp2 100  true method1 3.196
-exp2 100  true method2 3.073
-exp2 100  100 method1 3.7
-exp2 100  100 method2 2.888
-exp2 100  500 method1 3.092
-exp2 100  500 method2 3.092
-exp2 100  true method1 3.229
-exp2 100  true method2 3.158
-exp2 100  100 method1 2.63
-exp2 100  100 method2 2.58
-exp2 100  500 method1 2.399
-exp2 100  500 method2 2.399
-exp2 100  true method1 3.086
-exp2 100  true method2 2.867
-exp2 100  100 method1 2.956
-exp2 100  100 method2 2.985
-exp2 100  500 method1 3.158
-exp2 100  500 method2 3.158
-exp2 100  true method1 3.362
-exp2 100  true method2 3.274
-exp2 100  100 method1 3.105
-exp2 100  100 method2 3.228
-exp2 100  500 method1 3.255
-exp2 100  500 method2 3.255
-exp2 100  true method1 2.834
-exp2 100  true method2 2.821
-exp2 100  100 method1 2.579
-exp2 100  100 method2 2.482
-exp2 100  500 method1 2.653
-exp2 100  500 method2 2.653
-exp2 100  true method1 3.255
-exp2 100  true method2 3.051
-exp2 100  100 method1 3.353
-exp2 100  100 method2 3.166
-exp2 100  500 method1 3.128
-exp2 100  500 method2 3.128
-exp2 100  true method1 3.567
-exp2 100  true method2 3.57
-exp2 100  100 method1 2.821
-exp2 100  100 method2 2.908
-exp2 100  500 method1 2.672
-exp2 100  500 method2 2.672
-exp2 100  true method1 3.545
-exp2 100  true method2 3.081
-exp2 100  100 method1 3.491
-exp2 100  100 method2 3.322
-exp2 100  500 method1 3.131
-exp2 100  500 method2 3.131
-exp2 100  true method1 3.598
-exp2 100  true method2 3.239
-exp2 100  100 method1 3.027
-exp2 100  100 method2 2.941
-exp2 100  500 method1 3.086
-exp2 100  500 method2 3.086
-exp2 100  true method1 3.442
-exp2 100  true method2 3.131
-exp2 100  100 method1 2.261
-exp2 100  100 method2 2.287
-exp2 100  500 method1 2.409
-exp2 100  500 method2 2.409
-exp2 100  true method1 3.654
-exp2 100  true method2 3.355
-exp2 100  100 method1 2.697
-exp2 100  100 method2 2.623
-exp2 100  500 method1 2.668
-exp2 100  500 method2 2.668
-exp2 100  true method1 3.798
-exp2 100  true method2 3.492
-exp2 100  100 method1 2.668
-exp2 100  100 method2 2.688
-exp2 100  500 method1 2.865
-exp2 100  500 method2 2.865
-exp2 100  true method1 3.266
-exp2 100  true method2 2.907
-exp2 100  100 method1 3.246
-exp2 100  100 method2 2.883
-exp2 100  500 method1 3.124
-exp2 100  500 method2 3.124
-exp2 100  true method1 3.126
-exp2 100  true method2 3.109
-exp2 100  100 method1 3.046
-exp2 100  100 method2 2.942
-exp2 100  500 method1 3.398
-exp2 100  500 method2 3.398
-exp2 100  true method1 3.481
-exp2 100  true method2 3.242
-exp2 100  100 method1 3.596
-exp2 100  100 method2 3.495
-exp2 100  500 method1 3.316
-exp2 100  500 method2 3.316
-exp2 100  true method1 3.354
-exp2 100  true method2 3.027
-exp2 100  100 method1 3.31
-exp2 100  100 method2 3.095
-exp2 100  500 method1 2.963
-exp2 100  500 method2 2.963
-exp2 100  true method1 3.437
-exp2 100  true method2 2.99
-exp2 100  100 method1 2.441
-exp2 100  100 method2 2.424
-exp2 100  500 method1 2.612
-exp2 100  500 method2 2.612
-exp2 100  true method1 3.485
-exp2 100  true method2 3.158
-exp2 100  100 method1 2.5
-exp2 100  100 method2 2.455
-exp2 100  500 method1 2.515
-exp2 100  500 method2 2.515
-exp2 100  true method1 3.109
-exp2 100  true method2 2.967
-exp2 100  100 method1 3.258
-exp2 100  100 method2 3.103
-exp2 100  500 method1 3.059
-exp2 100  500 method2 3.059
-exp2 100  true method1 3.132
-exp2 100  true method2 3.003
-exp2 100  100 method1 3.307
-exp2 100  100 method2 3.126
-exp2 100  500 method1 3.196
-exp2 100  500 method2 3.196
-exp2 100  true method1 3.391
-exp2 100  true method2 3.421
-exp2 100  100 method1 2.637
-exp2 100  100 method2 2.604
-exp2 100  500 method1 2.962
-exp2 100  500 method2 2.962
-exp2 100  true method1 3.141
-exp2 100  true method2 3.104
-exp2 100  100 method1 2.821
-exp2 100  100 method2 2.707
-exp2 100  500 method1 2.616
-exp2 100  500 method2 2.616
-exp2 100  true method1 2.795
-exp2 100  true method2 2.72
-exp2 100  100 method1 2.652
-exp2 100  100 method2 2.661
-exp2 100  500 method1 2.707
-exp2 100  500 method2 2.707
-exp2 100  true method1 3.532
-exp2 100  true method2 3.066
-exp2 100  100 method1 3.414
-exp2 100  100 method2 3.246
-exp2 100  500 method1 3.254
-exp2 100  500 method2 3.254
-exp2 100  true method1 3.108
-exp2 100  true method2 2.92
-exp2 100  100 method1 3.2
-exp2 100  100 method2 3.022
-exp2 100  500 method1 2.962
-exp2 100  500 method2 2.962
-exp2 100  true method1 3.085
-exp2 100  true method2 2.922
-exp2 100  100 method1 2.551
-exp2 100  100 method2 2.583
-exp2 100  500 method1 2.564
-exp2 100  500 method2 2.564
-exp2 100  true method1 3.357
-exp2 100  true method2 3.049
-exp2 100  100 method1 2.899
-exp2 100  100 method2 2.818
-exp2 100  500 method1 2.82
-exp2 100  500 method2 2.82
-exp2 100  true method1 3.352
-exp2 100  true method2 3.336
-exp2 100  100 method1 2.585
-exp2 100  100 method2 2.592
-exp2 100  500 method1 2.582
-exp2 100  500 method2 2.582
-exp2 100  true method1 3.293
-exp2 100  true method2 3.245
-exp2 100  100 method1 2.794
-exp2 100  100 method2 2.774
-exp2 100  500 method1 2.534
-exp2 100  500 method2 2.534
-exp2 100  true method1 2.996
-exp2 100  true method2 2.915
-exp2 100  100 method1 2.882
-exp2 100  100 method2 2.739
-exp2 100  500 method1 2.754
-exp2 100  500 method2 2.754
-exp2 1000  true method1 52.695
-exp2 1000  true method2 37.157
-exp2 1000  100 method1 57.968
-exp2 1000  100 method2 43.928
-exp2 1000  500 method1 55.596
-exp2 1000  500 method2 55.596
-exp2 1000  true method1 39.475
-exp2 1000  true method2 28.633
-exp2 1000  100 method1 47.59
-exp2 1000  100 method2 35.735
-exp2 1000  500 method1 43.89
-exp2 1000  500 method2 43.89
-exp2 1000  true method1 95.069
-exp2 1000  true method2 61.012
-exp2 1000  100 method1 96.445
-exp2 1000  100 method2 71.703
-exp2 1000  500 method1 95.62
-exp2 1000  500 method2 95.62
-exp2 1000  true method1 50.184
-exp2 1000  true method2 36.537
-exp2 1000  100 method1 53.744
-exp2 1000  100 method2 44.114
-exp2 1000  500 method1 50.534
-exp2 1000  500 method2 50.534
-exp2 1000  true method1 27.974
-exp2 1000  true method2 20.864
-exp2 1000  100 method1 28.261
-exp2 1000  100 method2 25.745
-exp2 1000  500 method1 28.979
-exp2 1000  500 method2 28.979
-exp2 1000  true method1 31.317
-exp2 1000  true method2 23.334
-exp2 1000  100 method1 34.529
-exp2 1000  100 method2 27.416
-exp2 1000  500 method1 32.092
-exp2 1000  500 method2 32.092
-exp2 1000  true method1 54.639
-exp2 1000  true method2 40.462
-exp2 1000  100 method1 59.947
-exp2 1000  100 method2 53.154
-exp2 1000  500 method1 55.402
-exp2 1000  500 method2 55.402
-exp2 1000  true method1 66.246
-exp2 1000  true method2 45.351
-exp2 1000  100 method1 70.278
-exp2 1000  100 method2 57.196
-exp2 1000  500 method1 69.42
-exp2 1000  500 method2 69.42
-exp2 1000  true method1 100.215
-exp2 1000  true method2 87.406
-exp2 1000  100 method1 100.493
-exp2 1000  100 method2 90.592
-exp2 1000  500 method1 103.08
-exp2 1000  500 method2 103.08
-exp2 1000  true method1 182.924
-exp2 1000  true method2 130.44
-exp2 1000  100 method1 170.273
-exp2 1000  100 method2 137.861
-exp2 1000  500 method1 182.424
-exp2 1000  500 method2 182.424
-exp2 1000  true method1 33.896
-exp2 1000  true method2 26.301
-exp2 1000  100 method1 35.226
-exp2 1000  100 method2 31.823
-exp2 1000  500 method1 34.653
-exp2 1000  500 method2 34.653
-exp2 1000  true method1 49.226
-exp2 1000  true method2 34.373
-exp2 1000  100 method1 59.904
-exp2 1000  100 method2 44.668
-exp2 1000  500 method1 51.415
-exp2 1000  500 method2 51.415
-exp2 1000  true method1 39.665
-exp2 1000  true method2 27.244
-exp2 1000  100 method1 45.328
-exp2 1000  100 method2 33.119
-exp2 1000  500 method1 42.482
-exp2 1000  500 method2 42.482
-exp2 1000  true method1 30.419
-exp2 1000  true method2 23.75
-exp2 1000  100 method1 34.672
-exp2 1000  100 method2 30.309
-exp2 1000  500 method1 30.882
-exp2 1000  500 method2 30.882
-exp2 1000  true method1 37.421
-exp2 1000  true method2 23.682
-exp2 1000  100 method1 41.875
-exp2 1000  100 method2 30.343
-exp2 1000  500 method1 41.437
-exp2 1000  500 method2 41.437
-exp2 1000  true method1 70.095
-exp2 1000  true method2 60.487
-exp2 1000  100 method1 82.117
-exp2 1000  100 method2 76.93
-exp2 1000  500 method1 73.449
-exp2 1000  500 method2 73.449
-exp2 1000  true method1 57.444
-exp2 1000  true method2 40.762
-exp2 1000  100 method1 54.314
-exp2 1000  100 method2 44.029
-exp2 1000  500 method1 57.467
-exp2 1000  500 method2 57.467
-exp2 1000  true method1 51.357
-exp2 1000  true method2 36.486
-exp2 1000  100 method1 52.586
-exp2 1000  100 method2 39.678
-exp2 1000  500 method1 53.114
-exp2 1000  500 method2 53.114
-exp2 1000  true method1 67.834
-exp2 1000  true method2 38.173
-exp2 1000  100 method1 72.033
-exp2 1000  100 method2 40.503
-exp2 1000  500 method1 69.907
-exp2 1000  500 method2 69.907
-exp2 1000  true method1 51.467
-exp2 1000  true method2 31.446
-exp2 1000  100 method1 53.909
-exp2 1000  100 method2 34.273
-exp2 1000  500 method1 52.736
-exp2 1000  500 method2 52.736
-exp2 1000  true method1 74.286
-exp2 1000  true method2 47.658
-exp2 1000  100 method1 64.671
-exp2 1000  100 method2 57.074
-exp2 1000  500 method1 65.062
-exp2 1000  500 method2 65.062
-exp2 1000  true method1 41.399
-exp2 1000  true method2 31.008
-exp2 1000  100 method1 46.139
-exp2 1000  100 method2 38.948
-exp2 1000  500 method1 41.661
-exp2 1000  500 method2 41.661
-exp2 1000  true method1 59.517
-exp2 1000  true method2 41.889
-exp2 1000  100 method1 63.366
-exp2 1000  100 method2 50.784
-exp2 1000  500 method1 62.47
-exp2 1000  500 method2 62.47
-exp2 1000  true method1 69.261
-exp2 1000  true method2 48.159
-exp2 1000  100 method1 80.34
-exp2 1000  100 method2 66.356
-exp2 1000  500 method1 77.385
-exp2 1000  500 method2 77.385
-exp2 1000  true method1 41.838
-exp2 1000  true method2 30.971
-exp2 1000  100 method1 48.077
-exp2 1000  100 method2 35.611
-exp2 1000  500 method1 43.689
-exp2 1000  500 method2 43.689
-exp2 1000  true method1 41.304
-exp2 1000  true method2 25.214
-exp2 1000  100 method1 37.284
-exp2 1000  100 method2 25.981
-exp2 1000  500 method1 41.814
-exp2 1000  500 method2 41.814
-exp2 1000  true method1 54.412
-exp2 1000  true method2 34.587
-exp2 1000  100 method1 56.272
-exp2 1000  100 method2 37.352
-exp2 1000  500 method1 56.198
-exp2 1000  500 method2 56.198
-exp2 1000  true method1 56.815
-exp2 1000  true method2 45.849
-exp2 1000  100 method1 64.201
-exp2 1000  100 method2 59.617
-exp2 1000  500 method1 61.267
-exp2 1000  500 method2 61.267
-exp2 1000  true method1 30.201
-exp2 1000  true method2 21.965
-exp2 1000  100 method1 30.697
-exp2 1000  100 method2 23.954
-exp2 1000  500 method1 31.292
-exp2 1000  500 method2 31.292
-exp2 1000  true method1 22.641
-exp2 1000  true method2 17.689
-exp2 1000  100 method1 25.868
-exp2 1000  100 method2 20.565
-exp2 1000  500 method1 26.524
-exp2 1000  500 method2 26.524
-exp2 1000  true method1 64.936
-exp2 1000  true method2 42.801
-exp2 1000  100 method1 65.061
-exp2 1000  100 method2 49.873
-exp2 1000  500 method1 62.808
-exp2 1000  500 method2 62.808
-exp2 1000  true method1 62.908
-exp2 1000  true method2 38.071
-exp2 1000  100 method1 77.692
-exp2 1000  100 method2 56.547
-exp2 1000  500 method1 66.154
-exp2 1000  500 method2 66.154
-exp2 1000  true method1 36.303
-exp2 1000  true method2 25.667
-exp2 1000  100 method1 43.139
-exp2 1000  100 method2 29.847
-exp2 1000  500 method1 40.116
-exp2 1000  500 method2 40.116
-exp2 1000  true method1 32.756
-exp2 1000  true method2 24.018
-exp2 1000  100 method1 39.86
-exp2 1000  100 method2 29.903
-exp2 1000  500 method1 35.869
-exp2 1000  500 method2 35.869
-exp2 1000  true method1 77.865
-exp2 1000  true method2 52.31
-exp2 1000  100 method1 84.595
-exp2 1000  100 method2 65.353
-exp2 1000  500 method1 78.689
-exp2 1000  500 method2 78.689
-exp2 1000  true method1 44.441
-exp2 1000  true method2 27.887
-exp2 1000  100 method1 47.498
-exp2 1000  100 method2 34.741
-exp2 1000  500 method1 45.259
-exp2 1000  500 method2 45.259
-exp2 1000  true method1 43.756
-exp2 1000  true method2 25.174
-exp2 1000  100 method1 40.371
-exp2 1000  100 method2 28.414
-exp2 1000  500 method1 41.983
-exp2 1000  500 method2 41.983
-exp2 1000  true method1 82.409
-exp2 1000  true method2 64.218
-exp2 1000  100 method1 92.362
-exp2 1000  100 method2 79.335
-exp2 1000  500 method1 88.675
-exp2 1000  500 method2 88.675
-exp2 1000  true method1 63.181
-exp2 1000  true method2 52.944
-exp2 1000  100 method1 74.413
-exp2 1000  100 method2 68.024
-exp2 1000  500 method1 64.94
-exp2 1000  500 method2 64.94
-exp2 1000  true method1 29.44
-exp2 1000  true method2 21.086
-exp2 1000  100 method1 36.119
-exp2 1000  100 method2 28.573
-exp2 1000  500 method1 31.132
-exp2 1000  500 method2 31.132
-exp2 1000  true method1 44.26
-exp2 1000  true method2 31.773
-exp2 1000  100 method1 52.897
-exp2 1000  100 method2 42.538
-exp2 1000  500 method1 46.341
-exp2 1000  500 method2 46.341
-exp2 1000  true method1 41.687
-exp2 1000  true method2 27.85
-exp2 1000  100 method1 46.519
-exp2 1000  100 method2 34.692
-exp2 1000  500 method1 42.165
-exp2 1000  500 method2 42.165
-exp2 1000  true method1 66.529
-exp2 1000  true method2 43.718
-exp2 1000  100 method1 67.967
-exp2 1000  100 method2 48.663
-exp2 1000  500 method1 66.467
-exp2 1000  500 method2 66.467
-exp2 1000  true method1 78.507
-exp2 1000  true method2 58.198
-exp2 1000  100 method1 89.942
-exp2 1000  100 method2 68.542
-exp2 1000  500 method1 86.158
-exp2 1000  500 method2 86.158
-exp2 1000  true method1 35.56
-exp2 1000  true method2 25.128
-exp2 1000  100 method1 37.768
-exp2 1000  100 method2 29.125
-exp2 1000  500 method1 34.915
-exp2 1000  500 method2 34.915
-exp2 1000  true method1 38.887
-exp2 1000  true method2 29.619
-exp2 1000  100 method1 41.073
-exp2 1000  100 method2 31.574
-exp2 1000  500 method1 39.688
-exp2 1000  500 method2 39.688
-exp2 1000  true method1 21.935
-exp2 1000  true method2 16.625
-exp2 1000  100 method1 22.303
-exp2 1000  100 method2 20.414
-exp2 1000  500 method1 21.311
-exp2 1000  500 method2 21.311
-exp2 1000  true method1 82.234
-exp2 1000  true method2 51.963
-exp2 1000  100 method1 75.085
-exp2 1000  100 method2 56.723
-exp2 1000  500 method1 80.784
-exp2 1000  500 method2 80.784
-exp2 1000  true method1 76.4
-exp2 1000  true method2 72.121
-exp2 1000  100 method1 93.9
-exp2 1000  100 method2 93.178
-exp2 1000  500 method1 82.392
-exp2 1000  500 method2 82.392
-exp2 1000  true method1 33.188
-exp2 1000  true method2 27.315
-exp2 1000  100 method1 38.382
-exp2 1000  100 method2 32.892
-exp2 1000  500 method1 35.436
-exp2 1000  500 method2 35.436
-exp2 10000  true method1 40.725
-exp2 10000  true method2 207.396
-exp2 10000  100 method1 285.304
-exp2 10000  100 method2 275.587
-exp2 10000  500 method1 253.014
-exp2 10000  500 method2 253.014
-exp2 10000  true method1 41.526
-exp2 10000  true method2 129.161
-exp2 10000  100 method1 210.277
-exp2 10000  100 method2 176.692
-exp2 10000  500 method1 185.566
-exp2 10000  500 method2 185.566
-exp2 10000  true method1 48.503
-exp2 10000  true method2 331.797
-exp2 10000  100 method1 253.449
-exp2 10000  100 method2 316.291
-exp2 10000  500 method1 240.403
-exp2 10000  500 method2 240.403
-exp2 10000  true method1 46.265
-exp2 10000  true method2 113.085
-exp2 10000  100 method1 166.291
-exp2 10000  100 method2 136.464
-exp2 10000  500 method1 150.477
-exp2 10000  500 method2 150.477
-exp2 10000  true method1 37.664
-exp2 10000  true method2 46.076
-exp2 10000  100 method1 80.861
-exp2 10000  100 method2 77.51
-exp2 10000  500 method1 63.02
-exp2 10000  500 method2 63.02
-exp2 10000  true method1 39.573
-exp2 10000  true method2 68.611
-exp2 10000  100 method1 116.269
-exp2 10000  100 method2 91.945
-exp2 10000  500 method1 107.942
-exp2 10000  500 method2 107.942
-exp2 10000  true method1 38.582
-exp2 10000  true method2 166.158
-exp2 10000  100 method1 246.876
-exp2 10000  100 method2 242.088
-exp2 10000  500 method1 235.319
-exp2 10000  500 method2 235.319
-exp2 10000  true method1 41.0
-exp2 10000  true method2 93.319
-exp2 10000  100 method1 95.873
-exp2 10000  100 method2 99.711
-exp2 10000  500 method1 94.441
-exp2 10000  500 method2 94.441
-exp2 10000  true method1 42.205
-exp2 10000  true method2 407.731
-exp2 10000  100 method1 470.869
-exp2 10000  100 method2 494.534
-exp2 10000  500 method1 457.648
-exp2 10000  500 method2 457.648
-exp2 10000  true method1 49.082
-exp2 10000  true method2 778.59
-exp2 10000  100 method1 963.275
-exp2 10000  100 method2 1071.591
-exp2 10000  500 method1 1025.512
-exp2 10000  500 method2 1025.512
-exp2 10000  true method1 37.022
-exp2 10000  true method2 50.955
-exp2 10000  100 method1 62.236
-exp2 10000  100 method2 66.088
-exp2 10000  500 method1 55.463
-exp2 10000  500 method2 55.463
-exp2 10000  true method1 35.129
-exp2 10000  true method2 91.802
-exp2 10000  100 method1 149.944
-exp2 10000  100 method2 119.477
-exp2 10000  500 method1 146.478
-exp2 10000  500 method2 146.478
-exp2 10000  true method1 43.864
-exp2 10000  true method2 107.677
-exp2 10000  100 method1 114.837
-exp2 10000  100 method2 118.535
-exp2 10000  500 method1 99.725
-exp2 10000  500 method2 99.725
-exp2 10000  true method1 38.884
-exp2 10000  true method2 79.048
-exp2 10000  100 method1 108.726
-exp2 10000  100 method2 94.682
-exp2 10000  500 method1 94.601
-exp2 10000  500 method2 94.601
-exp2 10000  true method1 39.961
-exp2 10000  true method2 54.169
-exp2 10000  100 method1 76.197
-exp2 10000  100 method2 59.447
-exp2 10000  500 method1 66.153
-exp2 10000  500 method2 66.153
-exp2 10000  true method1 52.048
-exp2 10000  true method2 343.062
-exp2 10000  100 method1 385.935
-exp2 10000  100 method2 465.852
-exp2 10000  500 method1 331.207
-exp2 10000  500 method2 331.207
-exp2 10000  true method1 42.452
-exp2 10000  true method2 123.856
-exp2 10000  100 method1 166.814
-exp2 10000  100 method2 159.861
-exp2 10000  500 method1 150.354
-exp2 10000  500 method2 150.354
-exp2 10000  true method1 39.278
-exp2 10000  true method2 80.638
-exp2 10000  100 method1 78.729
-exp2 10000  100 method2 78.825
-exp2 10000  500 method1 83.492
-exp2 10000  500 method2 83.492
-exp2 10000  true method1 44.296
-exp2 10000  true method2 148.157
-exp2 10000  100 method1 153.541
-exp2 10000  100 method2 142.988
-exp2 10000  500 method1 146.011
-exp2 10000  500 method2 146.011
-exp2 10000  true method1 42.726
-exp2 10000  true method2 75.818
-exp2 10000  100 method1 114.511
-exp2 10000  100 method2 93.204
-exp2 10000  500 method1 98.194
-exp2 10000  500 method2 98.194
-exp2 10000  true method1 36.836
-exp2 10000  true method2 122.999
-exp2 10000  100 method1 123.82
-exp2 10000  100 method2 133.864
-exp2 10000  500 method1 154.338
-exp2 10000  500 method2 154.338
-exp2 10000  true method1 35.856
-exp2 10000  true method2 102.889
-exp2 10000  100 method1 147.336
-exp2 10000  100 method2 143.065
-exp2 10000  500 method1 128.014
-exp2 10000  500 method2 128.014
-exp2 10000  true method1 38.292
-exp2 10000  true method2 175.857
-exp2 10000  100 method1 249.324
-exp2 10000  100 method2 236.523
-exp2 10000  500 method1 235.092
-exp2 10000  500 method2 235.092
-exp2 10000  true method1 47.048
-exp2 10000  true method2 245.231
-exp2 10000  100 method1 352.343
-exp2 10000  100 method2 336.884
-exp2 10000  500 method1 322.846
-exp2 10000  500 method2 322.846
-exp2 10000  true method1 43.123
-exp2 10000  true method2 101.189
-exp2 10000  100 method1 162.079
-exp2 10000  100 method2 138.031
-exp2 10000  500 method1 132.665
-exp2 10000  500 method2 132.665
-exp2 10000  true method1 43.627
-exp2 10000  true method2 58.342
-exp2 10000  100 method1 74.69
-exp2 10000  100 method2 59.575
-exp2 10000  500 method1 75.142
-exp2 10000  500 method2 75.142
-exp2 10000  true method1 37.692
-exp2 10000  true method2 80.148
-exp2 10000  100 method1 110.585
-exp2 10000  100 method2 97.677
-exp2 10000  500 method1 103.134
-exp2 10000  500 method2 103.134
-exp2 10000  true method1 35.848
-exp2 10000  true method2 213.278
-exp2 10000  100 method1 323.067
-exp2 10000  100 method2 338.745
-exp2 10000  500 method1 290.28
-exp2 10000  500 method2 290.28
-exp2 10000  true method1 41.573
-exp2 10000  true method2 61.513
-exp2 10000  100 method1 92.799
-exp2 10000  100 method2 72.522
-exp2 10000  500 method1 93.401
-exp2 10000  500 method2 93.401
-exp2 10000  true method1 39.222
-exp2 10000  true method2 51.756
-exp2 10000  100 method1 56.392
-exp2 10000  100 method2 49.428
-exp2 10000  500 method1 55.966
-exp2 10000  500 method2 55.966
-exp2 10000  true method1 39.122
-exp2 10000  true method2 89.23
-exp2 10000  100 method1 120.21
-exp2 10000  100 method2 102.262
-exp2 10000  500 method1 114.528
-exp2 10000  500 method2 114.528
-exp2 10000  true method1 45.889
-exp2 10000  true method2 222.811
-exp2 10000  100 method1 237.705
-exp2 10000  100 method2 280.003
-exp2 10000  500 method1 217.766
-exp2 10000  500 method2 217.766
-exp2 10000  true method1 44.068
-exp2 10000  true method2 71.552
-exp2 10000  100 method1 126.169
-exp2 10000  100 method2 103.815
-exp2 10000  500 method1 102.772
-exp2 10000  500 method2 102.772
-exp2 10000  true method1 41.176
-exp2 10000  true method2 82.223
-exp2 10000  100 method1 82.351
-exp2 10000  100 method2 86.197
-exp2 10000  500 method1 77.891
-exp2 10000  500 method2 77.891
-exp2 10000  true method1 52.662
-exp2 10000  true method2 498.862
-exp2 10000  100 method1 368.402
-exp2 10000  100 method2 480.184
-exp2 10000  500 method1 329.354
-exp2 10000  500 method2 329.354
-exp2 10000  true method1 38.269
-exp2 10000  true method2 64.949
-exp2 10000  100 method1 98.913
-exp2 10000  100 method2 82.04
-exp2 10000  500 method1 82.036
-exp2 10000  500 method2 82.036
-exp2 10000  true method1 43.593
-exp2 10000  true method2 50.958
-exp2 10000  100 method1 51.802
-exp2 10000  100 method2 53.462
-exp2 10000  500 method1 51.164
-exp2 10000  500 method2 51.164
-exp2 10000  true method1 43.747
-exp2 10000  true method2 574.015
-exp2 10000  100 method1 555.784
-exp2 10000  100 method2 661.516
-exp2 10000  500 method1 535.865
-exp2 10000  500 method2 535.865
-exp2 10000  true method1 40.578
-exp2 10000  true method2 322.835
-exp2 10000  100 method1 399.228
-exp2 10000  100 method2 497.591
-exp2 10000  500 method1 348.577
-exp2 10000  500 method2 348.577
-exp2 10000  true method1 39.031
-exp2 10000  true method2 68.822
-exp2 10000  100 method1 107.043
-exp2 10000  100 method2 94.468
-exp2 10000  500 method1 99.89
-exp2 10000  500 method2 99.89
-exp2 10000  true method1 47.273
-exp2 10000  true method2 134.949
-exp2 10000  100 method1 199.469
-exp2 10000  100 method2 172.956
-exp2 10000  500 method1 185.647
-exp2 10000  500 method2 185.647
-exp2 10000  true method1 42.615
-exp2 10000  true method2 81.416
-exp2 10000  100 method1 161.558
-exp2 10000  100 method2 132.378
-exp2 10000  500 method1 114.55
-exp2 10000  500 method2 114.55
-exp2 10000  true method1 50.637
-exp2 10000  true method2 129.403
-exp2 10000  100 method1 210.474
-exp2 10000  100 method2 171.095
-exp2 10000  500 method1 211.428
-exp2 10000  500 method2 211.428
-exp2 10000  true method1 44.403
-exp2 10000  true method2 437.795
-exp2 10000  100 method1 342.602
-exp2 10000  100 method2 491.055
-exp2 10000  500 method1 313.19
-exp2 10000  500 method2 313.19
-exp2 10000  true method1 40.922
-exp2 10000  true method2 61.182
-exp2 10000  100 method1 103.015
-exp2 10000  100 method2 82.773
-exp2 10000  500 method1 94.532
-exp2 10000  500 method2 94.532
-exp2 10000  true method1 33.5
-exp2 10000  true method2 83.515
-exp2 10000  100 method1 148.508
-exp2 10000  100 method2 129.519
-exp2 10000  500 method1 128.147
-exp2 10000  500 method2 128.147
-exp2 10000  true method1 34.304
-exp2 10000  true method2 38.762
-exp2 10000  100 method1 49.626
-exp2 10000  100 method2 46.988
-exp2 10000  500 method1 46.336
-exp2 10000  500 method2 46.336
-exp2 10000  true method1 37.931
-exp2 10000  true method2 108.531
-exp2 10000  100 method1 95.017
-exp2 10000  100 method2 107.709
-exp2 10000  500 method1 105.648
-exp2 10000  500 method2 105.648
-exp2 10000  true method1 49.815
-exp2 10000  true method2 647.188
-exp2 10000  100 method1 554.268
-exp2 10000  100 method2 869.956
-exp2 10000  500 method1 500.096
-exp2 10000  500 method2 500.096
-exp2 10000  true method1 36.467
-exp2 10000  true method2 98.834
-exp2 10000  100 method1 128.768
-exp2 10000  100 method2 114.373
-exp2 10000  500 method1 117.139
-exp2 10000  500 method2 117.139
-exp2 25  true method1 2.347
-exp2 25  true method2 2.194
-exp2 25  100 method1 2.277
-exp2 25  100 method2 2.199
-exp2 25  500 method1 2.201
-exp2 25  500 method2 2.201
-exp2 25  true method1 2.513
-exp2 25  true method2 2.077
-exp2 25  100 method1 2.135
-exp2 25  100 method2 2.028
-exp2 25  500 method1 2.201
-exp2 25  500 method2 2.201
-exp2 25  true method1 1.863
-exp2 25  true method2 1.881
-exp2 25  100 method1 2.097
-exp2 25  100 method2 2.072
-exp2 25  500 method1 2.308
-exp2 25  500 method2 2.308
-exp2 25  true method1 2.08
-exp2 25  true method2 2.016
-exp2 25  100 method1 2.315
-exp2 25  100 method2 2.296
-exp2 25  500 method1 2.14
-exp2 25  500 method2 2.14
-exp2 25  true method1 2.031
-exp2 25  true method2 1.961
-exp2 25  100 method1 1.981
-exp2 25  100 method2 1.957
-exp2 25  500 method1 1.882
-exp2 25  500 method2 1.882
-exp2 25  true method1 1.907
-exp2 25  true method2 1.881
-exp2 25  100 method1 1.907
-exp2 25  100 method2 1.889
-exp2 25  500 method1 1.884
-exp2 25  500 method2 1.884
-exp2 25  true method1 1.91
-exp2 25  true method2 1.83
-exp2 25  100 method1 1.92
-exp2 25  100 method2 1.806
-exp2 25  500 method1 1.721
-exp2 25  500 method2 1.721
-exp2 25  true method1 2.431
-exp2 25  true method2 2.199
-exp2 25  100 method1 1.841
-exp2 25  100 method2 1.777
-exp2 25  500 method1 1.823
-exp2 25  500 method2 1.823
-exp2 25  true method1 2.235
-exp2 25  true method2 2.109
-exp2 25  100 method1 1.824
-exp2 25  100 method2 1.708
-exp2 25  500 method1 1.74
-exp2 25  500 method2 1.74
-exp2 25  true method1 2.777
-exp2 25  true method2 2.545
-exp2 25  100 method1 2.002
-exp2 25  100 method2 2.01
-exp2 25  500 method1 1.959
-exp2 25  500 method2 1.959
-exp2 25  true method1 2.062
-exp2 25  true method2 2.056
-exp2 25  100 method1 1.865
-exp2 25  100 method2 1.815
-exp2 25  500 method1 1.808
-exp2 25  500 method2 1.808
-exp2 25  true method1 2.305
-exp2 25  true method2 2.094
-exp2 25  100 method1 1.886
-exp2 25  100 method2 1.864
-exp2 25  500 method1 1.872
-exp2 25  500 method2 1.872
-exp2 25  true method1 2.526
-exp2 25  true method2 2.117
-exp2 25  100 method1 1.985
-exp2 25  100 method2 1.925
-exp2 25  500 method1 1.856
-exp2 25  500 method2 1.856
-exp2 25  true method1 2.156
-exp2 25  true method2 1.988
-exp2 25  100 method1 1.728
-exp2 25  100 method2 1.677
-exp2 25  500 method1 1.656
-exp2 25  500 method2 1.656
-exp2 25  true method1 2.442
-exp2 25  true method2 2.103
-exp2 25  100 method1 1.935
-exp2 25  100 method2 1.856
-exp2 25  500 method1 1.895
-exp2 25  500 method2 1.895
-exp2 25  true method1 2.909
-exp2 25  true method2 2.473
-exp2 25  100 method1 2.065
-exp2 25  100 method2 2.03
-exp2 25  500 method1 2.027
-exp2 25  500 method2 2.027
-exp2 25  true method1 2.344
-exp2 25  true method2 2.397
-exp2 25  100 method1 1.864
-exp2 25  100 method2 1.848
-exp2 25  500 method1 1.791
-exp2 25  500 method2 1.791
-exp2 25  true method1 2.32
-exp2 25  true method2 2.185
-exp2 25  100 method1 1.935
-exp2 25  100 method2 1.881
-exp2 25  500 method1 2.007
-exp2 25  500 method2 2.007
-exp2 25  true method1 2.319
-exp2 25  true method2 2.256
-exp2 25  100 method1 1.941
-exp2 25  100 method2 1.918
-exp2 25  500 method1 1.967
-exp2 25  500 method2 1.967
-exp2 25  true method1 2.824
-exp2 25  true method2 2.329
-exp2 25  100 method1 1.981
-exp2 25  100 method2 1.952
-exp2 25  500 method1 1.999
-exp2 25  500 method2 1.999
-exp2 25  true method1 2.528
-exp2 25  true method2 2.209
-exp2 25  100 method1 1.95
-exp2 25  100 method2 1.916
-exp2 25  500 method1 1.882
-exp2 25  500 method2 1.882
-exp2 25  true method1 2.616
-exp2 25  true method2 2.452
-exp2 25  100 method1 2.044
-exp2 25  100 method2 2.059
-exp2 25  500 method1 1.863
-exp2 25  500 method2 1.863
-exp2 25  true method1 1.936
-exp2 25  true method2 1.961
-exp2 25  100 method1 2.293
-exp2 25  100 method2 2.233
-exp2 25  500 method1 2.171
-exp2 25  500 method2 2.171
-exp2 25  true method1 1.884
-exp2 25  true method2 1.808
-exp2 25  100 method1 1.884
-exp2 25  100 method2 1.86
-exp2 25  500 method1 1.785
-exp2 25  500 method2 1.785
-exp2 25  true method1 2.621
-exp2 25  true method2 2.272
-exp2 25  100 method1 1.863
-exp2 25  100 method2 1.903
-exp2 25  500 method1 1.8
-exp2 25  500 method2 1.8
-exp2 25  true method1 2.274
-exp2 25  true method2 1.989
-exp2 25  100 method1 2.103
-exp2 25  100 method2 1.957
-exp2 25  500 method1 1.918
-exp2 25  500 method2 1.918
-exp2 25  true method1 2.639
-exp2 25  true method2 2.377
-exp2 25  100 method1 2.473
-exp2 25  100 method2 2.385
-exp2 25  500 method1 2.382
-exp2 25  500 method2 2.382
-exp2 25  true method1 2.838
-exp2 25  true method2 2.36
-exp2 25  100 method1 2.028
-exp2 25  100 method2 2.047
-exp2 25  500 method1 1.929
-exp2 25  500 method2 1.929
-exp2 25  true method1 2.588
-exp2 25  true method2 2.284
-exp2 25  100 method1 1.972
-exp2 25  100 method2 1.972
-exp2 25  500 method1 1.871
-exp2 25  500 method2 1.871
-exp2 25  true method1 2.421
-exp2 25  true method2 2.051
-exp2 25  100 method1 2.022
-exp2 25  100 method2 1.977
-exp2 25  500 method1 2.095
-exp2 25  500 method2 2.095
-exp2 25  true method1 2.565
-exp2 25  true method2 2.371
-exp2 25  100 method1 1.907
-exp2 25  100 method2 1.94
-exp2 25  500 method1 1.953
-exp2 25  500 method2 1.953
-exp2 25  true method1 1.933
-exp2 25  true method2 1.889
-exp2 25  100 method1 2.338
-exp2 25  100 method2 2.229
-exp2 25  500 method1 2.151
-exp2 25  500 method2 2.151
-exp2 25  true method1 1.814
-exp2 25  true method2 1.852
-exp2 25  100 method1 1.978
-exp2 25  100 method2 1.914
-exp2 25  500 method1 1.778
-exp2 25  500 method2 1.778
-exp2 25  true method1 2.316
-exp2 25  true method2 2.138
-exp2 25  100 method1 2.149
-exp2 25  100 method2 2.072
-exp2 25  500 method1 2.169
-exp2 25  500 method2 2.169
-exp2 25  true method1 2.432
-exp2 25  true method2 2.314
-exp2 25  100 method1 2.058
-exp2 25  100 method2 2.011
-exp2 25  500 method1 1.856
-exp2 25  500 method2 1.856
-exp2 25  true method1 2.15
-exp2 25  true method2 2.113
-exp2 25  100 method1 2.218
-exp2 25  100 method2 2.254
-exp2 25  500 method1 2.104
-exp2 25  500 method2 2.104
-exp2 25  true method1 2.406
-exp2 25  true method2 2.204
-exp2 25  100 method1 1.842
-exp2 25  100 method2 1.811
-exp2 25  500 method1 1.865
-exp2 25  500 method2 1.865
-exp2 25  true method1 2.764
-exp2 25  true method2 2.537
-exp2 25  100 method1 1.886
-exp2 25  100 method2 1.969
-exp2 25  500 method1 2.036
-exp2 25  500 method2 2.036
-exp2 25  true method1 2.512
-exp2 25  true method2 2.162
-exp2 25  100 method1 1.908
-exp2 25  100 method2 1.882
-exp2 25  500 method1 1.857
-exp2 25  500 method2 1.857
-exp2 25  true method1 1.969
-exp2 25  true method2 1.831
-exp2 25  100 method1 1.836
-exp2 25  100 method2 1.781
-exp2 25  500 method1 1.776
-exp2 25  500 method2 1.776
-exp2 25  true method1 2.158
-exp2 25  true method2 2.139
-exp2 25  100 method1 1.979
-exp2 25  100 method2 1.961
-exp2 25  500 method1 1.928
-exp2 25  500 method2 1.928
-exp2 25  true method1 2.164
-exp2 25  true method2 2.096
-exp2 25  100 method1 1.946
-exp2 25  100 method2 1.898
-exp2 25  500 method1 1.818
-exp2 25  500 method2 1.818
-exp2 25  true method1 1.989
-exp2 25  true method2 1.958
-exp2 25  100 method1 1.768
-exp2 25  100 method2 1.926
-exp2 25  500 method1 1.882
-exp2 25  500 method2 1.882
-exp2 25  true method1 2.478
-exp2 25  true method2 2.346
-exp2 25  100 method1 1.835
-exp2 25  100 method2 2.076
-exp2 25  500 method1 1.839
-exp2 25  500 method2 1.839
-exp2 25  true method1 2.147
-exp2 25  true method2 2.186
-exp2 25  100 method1 1.744
-exp2 25  100 method2 1.691
-exp2 25  500 method1 1.682
-exp2 25  500 method2 1.682
-exp2 25  true method1 2.376
-exp2 25  true method2 2.122
-exp2 25  100 method1 2.601
-exp2 25  100 method2 2.206
-exp2 25  500 method1 2.238
-exp2 25  500 method2 2.238
-exp2 25  true method1 2.516
-exp2 25  true method2 2.293
-exp2 25  100 method1 .
-exp2 25  100 method1 .
-exp2 25  100 method1 .
-exp2 25  100 method1 .
-exp2 25  100 method2 .
-exp2 25  100 method2 .
-exp2 25  100 method2 .
-exp2 25  100 method2 .
-exp2 25  500 method1 2.295
-exp2 25  500 method2 2.295
-exp2 25  true method1 2.539
-exp2 25  true method2 2.323
-exp2 25  100 method1 2.719
-exp2 25  100 method2 3.065
-exp2 25  500 method1 2.059
-exp2 25  500 method2 2.059
-exp2 25  true method1 2.655
-exp2 25  true method2 2.409
-exp2 25  100 method1 2.64
-exp2 25  100 method2 2.503
-exp2 25  500 method1 2.307
-exp2 25  500 method2 2.307
-exp2 25  true method1 2.428
-exp2 25  true method2 2.052
-exp2 25  100 method1 2.264
-exp2 25  100 method2 2.118
-exp2 25  500 method1 2.089
-exp2 25  500 method2 2.089
-exp2 250  true method1 4.353
-exp2 250  true method2 4.322
-exp2 250  100 method1 4.637
-exp2 250  100 method2 4.489
-exp2 250  500 method1 4.692
-exp2 250  500 method2 4.692
-exp2 250  true method1 4.494
-exp2 250  true method2 4.462
-exp2 250  100 method1 3.696
-exp2 250  100 method2 3.613
-exp2 250  500 method1 3.329
-exp2 250  500 method2 3.329
-exp2 250  true method1 4.83
-exp2 250  true method2 4.634
-exp2 250  100 method1 4.687
-exp2 250  100 method2 4.75
-exp2 250  500 method1 4.736
-exp2 250  500 method2 4.736
-exp2 250  true method1 4.689
-exp2 250  true method2 4.586
-exp2 250  100 method1 3.685
-exp2 250  100 method2 3.901
-exp2 250  500 method1 3.691
-exp2 250  500 method2 3.691
-exp2 250  true method1 4.033
-exp2 250  true method2 3.874
-exp2 250  100 method1 3.368
-exp2 250  100 method2 3.523
-exp2 250  500 method1 3.288
-exp2 250  500 method2 3.288
-exp2 250  true method1 4.165
-exp2 250  true method2 4.134
-exp2 250  100 method1 4.608
-exp2 250  100 method2 4.197
-exp2 250  500 method1 4.471
-exp2 250  500 method2 4.471
-exp2 250  true method1 5.067
-exp2 250  true method2 4.388
-exp2 250  100 method1 4.263
-exp2 250  100 method2 4.079
-exp2 250  500 method1 4.417
-exp2 250  500 method2 4.417
-exp2 250  true method1 4.826
-exp2 250  true method2 4.575
-exp2 250  100 method1 4.366
-exp2 250  100 method2 4.606
-exp2 250  500 method1 4.631
-exp2 250  500 method2 4.631
-exp2 250  true method1 5.195
-exp2 250  true method2 4.479
-exp2 250  100 method1 4.548
-exp2 250  100 method2 4.476
-exp2 250  500 method1 4.437
-exp2 250  500 method2 4.437
-exp2 250  true method1 5.266
-exp2 250  true method2 4.918
-exp2 250  100 method1 4.934
-exp2 250  100 method2 4.978
-exp2 250  500 method1 5.034
-exp2 250  500 method2 5.034
-exp2 250  true method1 4.875
-exp2 250  true method2 4.367
-exp2 250  100 method1 3.504
-exp2 250  100 method2 3.465
-exp2 250  500 method1 3.401
-exp2 250  500 method2 3.401
-exp2 250  true method1 4.318
-exp2 250  true method2 4.006
-exp2 250  100 method1 4.086
-exp2 250  100 method2 3.975
-exp2 250  500 method1 4.029
-exp2 250  500 method2 4.029
-exp2 250  true method1 4.933
-exp2 250  true method2 4.616
-exp2 250  100 method1 4.637
-exp2 250  100 method2 4.34
-exp2 250  500 method1 4.42
-exp2 250  500 method2 4.42
-exp2 250  true method1 4.377
-exp2 250  true method2 3.932
-exp2 250  100 method1 4.117
-exp2 250  100 method2 3.908
-exp2 250  500 method1 3.851
-exp2 250  500 method2 3.851
-exp2 250  true method1 4.787
-exp2 250  true method2 4.284
-exp2 250  100 method1 4.714
-exp2 250  100 method2 4.71
-exp2 250  500 method1 4.832
-exp2 250  500 method2 4.832
-exp2 250  true method1 4.856
-exp2 250  true method2 4.797
-exp2 250  100 method1 4.826
-exp2 250  100 method2 4.749
-exp2 250  500 method1 4.682
-exp2 250  500 method2 4.682
-exp2 250  true method1 4.402
-exp2 250  true method2 4.264
-exp2 250  100 method1 3.852
-exp2 250  100 method2 3.829
-exp2 250  500 method1 3.583
-exp2 250  500 method2 3.583
-exp2 250  true method1 4.163
-exp2 250  true method2 4.461
-exp2 250  100 method1 4.163
-exp2 250  100 method2 4.034
-exp2 250  500 method1 4.1
-exp2 250  500 method2 4.1
-exp2 250  true method1 4.647
-exp2 250  true method2 4.844
-exp2 250  100 method1 4.733
-exp2 250  100 method2 4.717
-exp2 250  500 method1 4.408
-exp2 250  500 method2 4.408
-exp2 250  true method1 4.381
-exp2 250  true method2 4.476
-exp2 250  100 method1 5.083
-exp2 250  100 method2 4.669
-exp2 250  500 method1 4.738
-exp2 250  500 method2 4.738
-exp2 250  true method1 4.062
-exp2 250  true method2 4.017
-exp2 250  100 method1 4.053
-exp2 250  100 method2 3.901
-exp2 250  500 method1 4.174
-exp2 250  500 method2 4.174
-exp2 250  true method1 4.308
-exp2 250  true method2 4.104
-exp2 250  100 method1 4.308
-exp2 250  100 method2 4.228
-exp2 250  500 method1 3.916
-exp2 250  500 method2 3.916
-exp2 250  true method1 4.902
-exp2 250  true method2 4.084
-exp2 250  100 method1 3.335
-exp2 250  100 method2 3.402
-exp2 250  500 method1 3.48
-exp2 250  500 method2 3.48
-exp2 250  true method1 4.829
-exp2 250  true method2 4.778
-exp2 250  100 method1 4.222
-exp2 250  100 method2 4.103
-exp2 250  500 method1 4.156
-exp2 250  500 method2 4.156
-exp2 250  true method1 5.131
-exp2 250  true method2 4.456
-exp2 250  100 method1 4.172
-exp2 250  100 method2 4.094
-exp2 250  500 method1 4.521
-exp2 250  500 method2 4.521
-exp2 250  true method1 5.141
-exp2 250  true method2 4.188
-exp2 250  100 method1 4.476
-exp2 250  100 method2 4.495
-exp2 250  500 method1 4.56
-exp2 250  500 method2 4.56
-exp2 250  true method1 5.135
-exp2 250  true method2 4.732
-exp2 250  100 method1 4.844
-exp2 250  100 method2 5.248
-exp2 250  500 method1 4.622
-exp2 250  500 method2 4.622
-exp2 250  true method1 5.329
-exp2 250  true method2 4.5
-exp2 250  100 method1 4.579
-exp2 250  100 method2 4.631
-exp2 250  500 method1 4.383
-exp2 250  500 method2 4.383
-exp2 250  true method1 4.591
-exp2 250  true method2 4.103
-exp2 250  100 method1 3.249
-exp2 250  100 method2 3.256
-exp2 250  500 method1 3.616
-exp2 250  500 method2 3.616
-exp2 250  true method1 4.271
-exp2 250  true method2 4.147
-exp2 250  100 method1 4.145
-exp2 250  100 method2 3.998
-exp2 250  500 method1 4.114
-exp2 250  500 method2 4.114
-exp2 250  true method1 4.66
-exp2 250  true method2 4.837
-exp2 250  100 method1 3.387
-exp2 250  100 method2 3.438
-exp2 250  500 method1 3.717
-exp2 250  500 method2 3.717
-exp2 250  true method1 4.834
-exp2 250  true method2 4.7
-exp2 250  100 method1 4.919
-exp2 250  100 method2 4.741
-exp2 250  500 method1 4.789
-exp2 250  500 method2 4.789
-exp2 250  true method1 4.173
-exp2 250  true method2 4.077
-exp2 250  100 method1 4.257
-exp2 250  100 method2 4.258
-exp2 250  500 method1 4.536
-exp2 250  500 method2 4.536
-exp2 250  true method1 4.179
-exp2 250  true method2 4.161
-exp2 250  100 method1 4.248
-exp2 250  100 method2 4.273
-exp2 250  500 method1 4.277
-exp2 250  500 method2 4.277
-exp2 250  true method1 4.305
-exp2 250  true method2 4.217
-exp2 250  100 method1 4.819
-exp2 250  100 method2 4.663
-exp2 250  500 method1 4.612
-exp2 250  500 method2 4.612
-exp2 250  true method1 4.174
-exp2 250  true method2 4.044
-exp2 250  100 method1 4.547
-exp2 250  100 method2 4.436
-exp2 250  500 method1 4.328
-exp2 250  500 method2 4.328
-exp2 250  true method1 4.99
-exp2 250  true method2 4.316
-exp2 250  100 method1 3.518
-exp2 250  100 method2 3.324
-exp2 250  500 method1 3.281
-exp2 250  500 method2 3.281
-exp2 250  true method1 4.743
-exp2 250  true method2 4.681
-exp2 250  100 method1 4.51
-exp2 250  100 method2 4.47
-exp2 250  500 method1 4.617
-exp2 250  500 method2 4.617
-exp2 250  true method1 4.739
-exp2 250  true method2 4.501
-exp2 250  100 method1 4.498
-exp2 250  100 method2 4.747
-exp2 250  500 method1 4.576
-exp2 250  500 method2 4.576
-exp2 250  true method1 5.325
-exp2 250  true method2 4.516
-exp2 250  100 method1 4.184
-exp2 250  100 method2 3.947
-exp2 250  500 method1 4.403
-exp2 250  500 method2 4.403
-exp2 250  true method1 5.016
-exp2 250  true method2 4.689
-exp2 250  100 method1 4.537
-exp2 250  100 method2 4.621
-exp2 250  500 method1 4.771
-exp2 250  500 method2 4.771
-exp2 250  true method1 5.128
-exp2 250  true method2 4.857
-exp2 250  100 method1 4.895
-exp2 250  100 method2 4.996
-exp2 250  500 method1 4.625
-exp2 250  500 method2 4.625
-exp2 250  true method1 4.884
-exp2 250  true method2 4.816
-exp2 250  100 method1 3.952
-exp2 250  100 method2 3.908
-exp2 250  500 method1 3.758
-exp2 250  500 method2 3.758
-exp2 250  true method1 5.13
-exp2 250  true method2 4.805
-exp2 250  100 method1 4.525
-exp2 250  100 method2 4.413
-exp2 250  500 method1 4.46
-exp2 250  500 method2 4.46
-exp2 250  true method1 5.002
-exp2 250  true method2 4.286
-exp2 250  100 method1 4.506
-exp2 250  100 method2 4.368
-exp2 250  500 method1 4.841
-exp2 250  500 method2 4.841
-exp2 250  true method1 4.322
-exp2 250  true method2 4.498
-exp2 250  100 method1 4.1
-exp2 250  100 method2 4.158
-exp2 250  500 method1 4.563
-exp2 250  500 method2 4.563
-exp2 250  true method1 3.845
-exp2 250  true method2 3.822
-exp2 250  100 method1 3.94
-exp2 250  100 method2 3.797
-exp2 250  500 method1 3.744
-exp2 250  500 method2 3.744
-exp2 250  true method1 4.728
-exp2 250  true method2 4.704
-exp2 250  100 method1 4.209
-exp2 250  100 method2 4.24
-exp2 250  500 method1 4.371
-exp2 250  500 method2 4.371
-exp2 250  true method1 4.618
-exp2 250  true method2 4.704
-exp2 250  100 method1 4.786
-exp2 250  100 method2 4.415
-exp2 250  500 method1 4.519
-exp2 250  500 method2 4.519
-exp2 250  true method1 3.911
-exp2 250  true method2 3.707
-exp2 250  100 method1 3.793
-exp2 250  100 method2 3.713
-exp2 250  500 method1 3.834
-exp2 250  500 method2 3.834
-exp2 2500  true method1 11.37
-exp2 2500  true method2 19.083
-exp2 2500  100 method1 24.888
-exp2 2500  100 method2 23.491
-exp2 2500  500 method1 22.257
-exp2 2500  500 method2 22.257
-exp2 2500  true method1 13.409
-exp2 2500  true method2 17.871
-exp2 2500  100 method1 22.666
-exp2 2500  100 method2 21.705
-exp2 2500  500 method1 21.244
-exp2 2500  500 method2 21.244
-exp2 2500  true method1 13.797
-exp2 2500  true method2 28.862
-exp2 2500  100 method1 35.122
-exp2 2500  100 method2 35.46
-exp2 2500  500 method1 33.061
-exp2 2500  500 method2 33.061
-exp2 2500  true method1 11.617
-exp2 2500  true method2 16.592
-exp2 2500  100 method1 21.805
-exp2 2500  100 method2 20.539
-exp2 2500  500 method1 21.543
-exp2 2500  500 method2 21.543
-exp2 2500  true method1 9.584
-exp2 2500  true method2 10.427
-exp2 2500  100 method1 14.261
-exp2 2500  100 method2 13.696
-exp2 2500  500 method1 13.428
-exp2 2500  500 method2 13.428
-exp2 2500  true method1 11.287
-exp2 2500  true method2 13.559
-exp2 2500  100 method1 16.254
-exp2 2500  100 method2 14.894
-exp2 2500  500 method1 17.419
-exp2 2500  500 method2 17.419
-exp2 2500  true method1 11.259
-exp2 2500  true method2 18.86
-exp2 2500  100 method1 22.009
-exp2 2500  100 method2 21.007
-exp2 2500  500 method1 21.905
-exp2 2500  500 method2 21.905
-exp2 2500  true method1 11.919
-exp2 2500  true method2 18.775
-exp2 2500  100 method1 24.178
-exp2 2500  100 method2 22.874
-exp2 2500  500 method1 22.533
-exp2 2500  500 method2 22.533
-exp2 2500  true method1 11.89
-exp2 2500  true method2 31.982
-exp2 2500  100 method1 35.748
-exp2 2500  100 method2 43.737
-exp2 2500  500 method1 36.058
-exp2 2500  500 method2 36.058
-exp2 2500  true method1 13.174
-exp2 2500  true method2 47.989
-exp2 2500  100 method1 56.896
-exp2 2500  100 method2 55.019
-exp2 2500  500 method1 60.026
-exp2 2500  500 method2 60.026
-exp2 2500  true method1 11.042
-exp2 2500  true method2 13.322
-exp2 2500  100 method1 11.834
-exp2 2500  100 method2 12.198
-exp2 2500  500 method1 11.991
-exp2 2500  500 method2 11.991
-exp2 2500  true method1 11.526
-exp2 2500  true method2 16.927
-exp2 2500  100 method1 21.219
-exp2 2500  100 method2 20.166
-exp2 2500  500 method1 20.34
-exp2 2500  500 method2 20.34
-exp2 2500  true method1 12.098
-exp2 2500  true method2 15.289
-exp2 2500  100 method1 19.609
-exp2 2500  100 method2 18.093
-exp2 2500  500 method1 17.922
-exp2 2500  500 method2 17.922
-exp2 2500  true method1 12.071
-exp2 2500  true method2 13.892
-exp2 2500  100 method1 15.423
-exp2 2500  100 method2 14.878
-exp2 2500  500 method1 15.109
-exp2 2500  500 method2 15.109
-exp2 2500  true method1 12.744
-exp2 2500  true method2 13.578
-exp2 2500  100 method1 16.152
-exp2 2500  100 method2 14.452
-exp2 2500  500 method1 15.649
-exp2 2500  500 method2 15.649
-exp2 2500  true method1 12.159
-exp2 2500  true method2 28.806
-exp2 2500  100 method1 31.409
-exp2 2500  100 method2 37.575
-exp2 2500  500 method1 28.212
-exp2 2500  500 method2 28.212
-exp2 2500  true method1 11.829
-exp2 2500  true method2 18.489
-exp2 2500  100 method1 14.951
-exp2 2500  100 method2 16.42
-exp2 2500  500 method1 14.794
-exp2 2500  500 method2 14.794
-exp2 2500  true method1 11.888
-exp2 2500  true method2 16.437
-exp2 2500  100 method1 19.038
-exp2 2500  100 method2 17.559
-exp2 2500  500 method1 19.246
-exp2 2500  500 method2 19.246
-exp2 2500  true method1 12.655
-exp2 2500  true method2 20.254
-exp2 2500  100 method1 25.772
-exp2 2500  100 method2 20.429
-exp2 2500  500 method1 24.957
-exp2 2500  500 method2 24.957
-exp2 2500  true method1 14.269
-exp2 2500  true method2 18.221
-exp2 2500  100 method1 18.622
-exp2 2500  100 method2 17.295
-exp2 2500  500 method1 17.811
-exp2 2500  500 method2 17.811
-exp2 2500  true method1 11.301
-exp2 2500  true method2 20.494
-exp2 2500  100 method1 19.548
-exp2 2500  100 method2 19.535
-exp2 2500  500 method1 20.783
-exp2 2500  500 method2 20.783
-exp2 2500  true method1 11.709
-exp2 2500  true method2 17.235
-exp2 2500  100 method1 17.968
-exp2 2500  100 method2 19.71
-exp2 2500  500 method1 16.961
-exp2 2500  500 method2 16.961
-exp2 2500  true method1 12.415
-exp2 2500  true method2 23.241
-exp2 2500  100 method1 26.452
-exp2 2500  100 method2 26.803
-exp2 2500  500 method1 24.891
-exp2 2500  500 method2 24.891
-exp2 2500  true method1 12.3
-exp2 2500  true method2 24.962
-exp2 2500  100 method1 19.417
-exp2 2500  100 method2 23.852
-exp2 2500  500 method1 20.555
-exp2 2500  500 method2 20.555
-exp2 2500  true method1 13.269
-exp2 2500  true method2 17.599
-exp2 2500  100 method1 20.43
-exp2 2500  100 method2 20.101
-exp2 2500  500 method1 19.176
-exp2 2500  500 method2 19.176
-exp2 2500  true method1 13.316
-exp2 2500  true method2 15.458
-exp2 2500  100 method1 15.104
-exp2 2500  100 method2 13.683
-exp2 2500  500 method1 17.351
-exp2 2500  500 method2 17.351
-exp2 2500  true method1 12.263
-exp2 2500  true method2 17.258
-exp2 2500  100 method1 20.707
-exp2 2500  100 method2 18.285
-exp2 2500  500 method1 20.095
-exp2 2500  500 method2 20.095
-exp2 2500  true method1 12.574
-exp2 2500  true method2 24.642
-exp2 2500  100 method1 25.355
-exp2 2500  100 method2 26.665
-exp2 2500  500 method1 24.043
-exp2 2500  500 method2 24.043
-exp2 2500  true method1 11.666
-exp2 2500  true method2 13.033
-exp2 2500  100 method1 14.625
-exp2 2500  100 method2 13.533
-exp2 2500  500 method1 14.229
-exp2 2500  500 method2 14.229
-exp2 2500  true method1 11.357
-exp2 2500  true method2 12.488
-exp2 2500  100 method1 13.897
-exp2 2500  100 method2 12.949
-exp2 2500  500 method1 13.678
-exp2 2500  500 method2 13.678
-exp2 2500  true method1 11.642
-exp2 2500  true method2 16.831
-exp2 2500  100 method1 16.67
-exp2 2500  100 method2 17.533
-exp2 2500  500 method1 16.449
-exp2 2500  500 method2 16.449
-exp2 2500  true method1 12.211
-exp2 2500  true method2 20.268
-exp2 2500  100 method1 28.765
-exp2 2500  100 method2 31.259
-exp2 2500  500 method1 25.509
-exp2 2500  500 method2 25.509
-exp2 2500  true method1 11.573
-exp2 2500  true method2 13.932
-exp2 2500  100 method1 17.318
-exp2 2500  100 method2 15.394
-exp2 2500  500 method1 16.272
-exp2 2500  500 method2 16.272
-exp2 2500  true method1 12.987
-exp2 2500  true method2 14.279
-exp2 2500  100 method1 17.269
-exp2 2500  100 method2 16.292
-exp2 2500  500 method1 16.684
-exp2 2500  500 method2 16.684
-exp2 2500  true method1 13.203
-exp2 2500  true method2 28.987
-exp2 2500  100 method1 37.984
-exp2 2500  100 method2 35.65
-exp2 2500  500 method1 32.991
-exp2 2500  500 method2 32.991
-exp2 2500  true method1 11.229
-exp2 2500  true method2 14.521
-exp2 2500  100 method1 17.279
-exp2 2500  100 method2 16.341
-exp2 2500  500 method1 16.323
-exp2 2500  500 method2 16.323
-exp2 2500  true method1 11.749
-exp2 2500  true method2 13.252
-exp2 2500  100 method1 15.822
-exp2 2500  100 method2 13.94
-exp2 2500  500 method1 15.739
-exp2 2500  500 method2 15.739
-exp2 2500  true method1 11.731
-exp2 2500  true method2 32.057
-exp2 2500  100 method1 27.319
-exp2 2500  100 method2 38.893
-exp2 2500  500 method1 23.478
-exp2 2500  500 method2 23.478
-exp2 2500  true method1 12.761
-exp2 2500  true method2 25.714
-exp2 2500  100 method1 28.097
-exp2 2500  100 method2 33.992
-exp2 2500  500 method1 25.239
-exp2 2500  500 method2 25.239
-exp2 2500  true method1 11.423
-exp2 2500  true method2 13.844
-exp2 2500  100 method1 16.173
-exp2 2500  100 method2 15.122
-exp2 2500  500 method1 15.497
-exp2 2500  500 method2 15.497
-exp2 2500  true method1 11.738
-exp2 2500  true method2 18.345
-exp2 2500  100 method1 22.347
-exp2 2500  100 method2 21.84
-exp2 2500  500 method1 20.651
-exp2 2500  500 method2 20.651
-exp2 2500  true method1 11.684
-exp2 2500  true method2 15.431
-exp2 2500  100 method1 18.929
-exp2 2500  100 method2 17.036
-exp2 2500  500 method1 17.212
-exp2 2500  500 method2 17.212
-exp2 2500  true method1 14.111
-exp2 2500  true method2 20.198
-exp2 2500  100 method1 22.44
-exp2 2500  100 method2 20.318
-exp2 2500  500 method1 22.434
-exp2 2500  500 method2 22.434
-exp2 2500  true method1 12.405
-exp2 2500  true method2 28.685
-exp2 2500  100 method1 33.031
-exp2 2500  100 method2 37.456
-exp2 2500  500 method1 31.317
-exp2 2500  500 method2 31.317
-exp2 2500  true method1 11.487
-exp2 2500  true method2 13.826
-exp2 2500  100 method1 12.729
-exp2 2500  100 method2 13.04
-exp2 2500  500 method1 14.1
-exp2 2500  500 method2 14.1
-exp2 2500  true method1 12.911
-exp2 2500  true method2 15.559
-exp2 2500  100 method1 19.265
-exp2 2500  100 method2 19.595
-exp2 2500  500 method1 16.971
-exp2 2500  500 method2 16.971
-exp2 2500  true method1 10.855
-exp2 2500  true method2 11.139
-exp2 2500  100 method1 11.444
-exp2 2500  100 method2 11.324
-exp2 2500  500 method1 11.446
-exp2 2500  500 method2 11.446
-exp2 2500  true method1 11.992
-exp2 2500  true method2 20.919
-exp2 2500  100 method1 22.733
-exp2 2500  100 method2 22.09
-exp2 2500  500 method1 24.222
-exp2 2500  500 method2 24.222
-exp2 2500  true method1 13.632
-exp2 2500  true method2 40.048
-exp2 2500  100 method1 23.86
-exp2 2500  100 method2 36.235
-exp2 2500  500 method1 22.156
-exp2 2500  500 method2 22.156
-exp2 2500  true method1 12.055
-exp2 2500  true method2 15.523
-exp2 2500  100 method1 17.841
-exp2 2500  100 method2 17.259
-exp2 2500  500 method1 16.651
-exp2 2500  500 method2 16.651
+exp2 25 100 true method1 3.81
+exp2 25 100 true method2 3.141
+exp2 25 100 100 method1 3.753
+exp2 25 100 100 method2 3.277
+exp2 25 100 500 method1 3.375
+exp2 25 100 500 method2 3.375
+exp2 25 100 true method1 3.435
+exp2 25 100 true method2 3.011
+exp2 25 100 100 method1 3.224
+exp2 25 100 100 method2 3.242
+exp2 25 100 500 method1 2.854
+exp2 25 100 500 method2 2.854
+exp2 25 100 true method1 3.86
+exp2 25 100 true method2 3.144
+exp2 25 100 100 method1 3.718
+exp2 25 100 100 method2 3.191
+exp2 25 100 500 method1 3.283
+exp2 25 100 500 method2 3.283
+exp2 25 100 true method1 3.557
+exp2 25 100 true method2 3.367
+exp2 25 100 100 method1 3.783
+exp2 25 100 100 method2 3.457
+exp2 25 100 500 method1 3.398
+exp2 25 100 500 method2 3.398
+exp2 25 100 true method1 3.4
+exp2 25 100 true method2 3.107
+exp2 25 100 100 method1 3.543
+exp2 25 100 100 method2 3.053
+exp2 25 100 500 method1 3.134
+exp2 25 100 500 method2 3.134
+exp2 25 100 true method1 3.491
+exp2 25 100 true method2 3.144
+exp2 25 100 100 method1 3.457
+exp2 25 100 100 method2 3.126
+exp2 25 100 500 method1 3.436
+exp2 25 100 500 method2 3.436
+exp2 25 100 true method1 3.337
+exp2 25 100 true method2 3.103
+exp2 25 100 100 method1 3.327
+exp2 25 100 100 method2 3.46
+exp2 25 100 500 method1 3.437
+exp2 25 100 500 method2 3.437
+exp2 25 100 true method1 3.436
+exp2 25 100 true method2 3.157
+exp2 25 100 100 method1 2.513
+exp2 25 100 100 method2 2.683
+exp2 25 100 500 method1 2.301
+exp2 25 100 500 method2 2.301
+exp2 25 100 true method1 3.729
+exp2 25 100 true method2 3.19
+exp2 25 100 100 method1 2.752
+exp2 25 100 100 method2 2.659
+exp2 25 100 500 method1 2.612
+exp2 25 100 500 method2 2.612
+exp2 25 100 true method1 3.601
+exp2 25 100 true method2 3.379
+exp2 25 100 100 method1 2.632
+exp2 25 100 100 method2 2.612
+exp2 25 100 500 method1 2.608
+exp2 25 100 500 method2 2.608
+exp2 25 100 true method1 3.28
+exp2 25 100 true method2 3.23
+exp2 25 100 100 method1 2.456
+exp2 25 100 100 method2 2.46
+exp2 25 100 500 method1 2.497
+exp2 25 100 500 method2 2.497
+exp2 25 100 true method1 2.914
+exp2 25 100 true method2 2.845
+exp2 25 100 100 method1 3.253
+exp2 25 100 100 method2 3.014
+exp2 25 100 500 method1 2.85
+exp2 25 100 500 method2 2.85
+exp2 25 100 true method1 3.471
+exp2 25 100 true method2 3.207
+exp2 25 100 100 method1 3.269
+exp2 25 100 100 method2 3.467
+exp2 25 100 500 method1 3.098
+exp2 25 100 500 method2 3.098
+exp2 25 100 true method1 3.16
+exp2 25 100 true method2 2.889
+exp2 25 100 100 method1 3.238
+exp2 25 100 100 method2 2.834
+exp2 25 100 500 method1 2.884
+exp2 25 100 500 method2 2.884
+exp2 25 100 true method1 3.413
+exp2 25 100 true method2 3.199
+exp2 25 100 100 method1 2.454
+exp2 25 100 100 method2 2.522
+exp2 25 100 500 method1 2.47
+exp2 25 100 500 method2 2.47
+exp2 25 100 true method1 3.746
+exp2 25 100 true method2 3.436
+exp2 25 100 100 method1 3.539
+exp2 25 100 100 method2 3.327
+exp2 25 100 500 method1 3.29
+exp2 25 100 500 method2 3.29
+exp2 25 100 true method1 3.427
+exp2 25 100 true method2 3.065
+exp2 25 100 100 method1 3.58
+exp2 25 100 100 method2 2.99
+exp2 25 100 500 method1 3.519
+exp2 25 100 500 method2 3.519
+exp2 25 100 true method1 3.521
+exp2 25 100 true method2 3.251
+exp2 25 100 100 method1 3.26
+exp2 25 100 100 method2 3.248
+exp2 25 100 500 method1 3.268
+exp2 25 100 500 method2 3.268
+exp2 25 100 true method1 3.712
+exp2 25 100 true method2 3.355
+exp2 25 100 100 method1 3.516
+exp2 25 100 100 method2 3.38
+exp2 25 100 500 method1 3.485
+exp2 25 100 500 method2 3.485
+exp2 25 100 true method1 3.462
+exp2 25 100 true method2 3.296
+exp2 25 100 100 method1 2.672
+exp2 25 100 100 method2 2.699
+exp2 25 100 500 method1 2.482
+exp2 25 100 500 method2 2.482
+exp2 25 100 true method1 3.196
+exp2 25 100 true method2 3.073
+exp2 25 100 100 method1 3.7
+exp2 25 100 100 method2 2.888
+exp2 25 100 500 method1 3.092
+exp2 25 100 500 method2 3.092
+exp2 25 100 true method1 3.229
+exp2 25 100 true method2 3.158
+exp2 25 100 100 method1 2.63
+exp2 25 100 100 method2 2.58
+exp2 25 100 500 method1 2.399
+exp2 25 100 500 method2 2.399
+exp2 25 100 true method1 3.086
+exp2 25 100 true method2 2.867
+exp2 25 100 100 method1 2.956
+exp2 25 100 100 method2 2.985
+exp2 25 100 500 method1 3.158
+exp2 25 100 500 method2 3.158
+exp2 25 100 true method1 3.362
+exp2 25 100 true method2 3.274
+exp2 25 100 100 method1 3.105
+exp2 25 100 100 method2 3.228
+exp2 25 100 500 method1 3.255
+exp2 25 100 500 method2 3.255
+exp2 25 100 true method1 2.834
+exp2 25 100 true method2 2.821
+exp2 25 100 100 method1 2.579
+exp2 25 100 100 method2 2.482
+exp2 25 100 500 method1 2.653
+exp2 25 100 500 method2 2.653
+exp2 25 100 true method1 3.255
+exp2 25 100 true method2 3.051
+exp2 25 100 100 method1 3.353
+exp2 25 100 100 method2 3.166
+exp2 25 100 500 method1 3.128
+exp2 25 100 500 method2 3.128
+exp2 25 100 true method1 3.567
+exp2 25 100 true method2 3.57
+exp2 25 100 100 method1 2.821
+exp2 25 100 100 method2 2.908
+exp2 25 100 500 method1 2.672
+exp2 25 100 500 method2 2.672
+exp2 25 100 true method1 3.545
+exp2 25 100 true method2 3.081
+exp2 25 100 100 method1 3.491
+exp2 25 100 100 method2 3.322
+exp2 25 100 500 method1 3.131
+exp2 25 100 500 method2 3.131
+exp2 25 100 true method1 3.598
+exp2 25 100 true method2 3.239
+exp2 25 100 100 method1 3.027
+exp2 25 100 100 method2 2.941
+exp2 25 100 500 method1 3.086
+exp2 25 100 500 method2 3.086
+exp2 25 100 true method1 3.442
+exp2 25 100 true method2 3.131
+exp2 25 100 100 method1 2.261
+exp2 25 100 100 method2 2.287
+exp2 25 100 500 method1 2.409
+exp2 25 100 500 method2 2.409
+exp2 25 100 true method1 3.654
+exp2 25 100 true method2 3.355
+exp2 25 100 100 method1 2.697
+exp2 25 100 100 method2 2.623
+exp2 25 100 500 method1 2.668
+exp2 25 100 500 method2 2.668
+exp2 25 100 true method1 3.798
+exp2 25 100 true method2 3.492
+exp2 25 100 100 method1 2.668
+exp2 25 100 100 method2 2.688
+exp2 25 100 500 method1 2.865
+exp2 25 100 500 method2 2.865
+exp2 25 100 true method1 3.266
+exp2 25 100 true method2 2.907
+exp2 25 100 100 method1 3.246
+exp2 25 100 100 method2 2.883
+exp2 25 100 500 method1 3.124
+exp2 25 100 500 method2 3.124
+exp2 25 100 true method1 3.126
+exp2 25 100 true method2 3.109
+exp2 25 100 100 method1 3.046
+exp2 25 100 100 method2 2.942
+exp2 25 100 500 method1 3.398
+exp2 25 100 500 method2 3.398
+exp2 25 100 true method1 3.481
+exp2 25 100 true method2 3.242
+exp2 25 100 100 method1 3.596
+exp2 25 100 100 method2 3.495
+exp2 25 100 500 method1 3.316
+exp2 25 100 500 method2 3.316
+exp2 25 100 true method1 3.354
+exp2 25 100 true method2 3.027
+exp2 25 100 100 method1 3.31
+exp2 25 100 100 method2 3.095
+exp2 25 100 500 method1 2.963
+exp2 25 100 500 method2 2.963
+exp2 25 100 true method1 3.437
+exp2 25 100 true method2 2.99
+exp2 25 100 100 method1 2.441
+exp2 25 100 100 method2 2.424
+exp2 25 100 500 method1 2.612
+exp2 25 100 500 method2 2.612
+exp2 25 100 true method1 3.485
+exp2 25 100 true method2 3.158
+exp2 25 100 100 method1 2.5
+exp2 25 100 100 method2 2.455
+exp2 25 100 500 method1 2.515
+exp2 25 100 500 method2 2.515
+exp2 25 100 true method1 3.109
+exp2 25 100 true method2 2.967
+exp2 25 100 100 method1 3.258
+exp2 25 100 100 method2 3.103
+exp2 25 100 500 method1 3.059
+exp2 25 100 500 method2 3.059
+exp2 25 100 true method1 3.132
+exp2 25 100 true method2 3.003
+exp2 25 100 100 method1 3.307
+exp2 25 100 100 method2 3.126
+exp2 25 100 500 method1 3.196
+exp2 25 100 500 method2 3.196
+exp2 25 100 true method1 3.391
+exp2 25 100 true method2 3.421
+exp2 25 100 100 method1 2.637
+exp2 25 100 100 method2 2.604
+exp2 25 100 500 method1 2.962
+exp2 25 100 500 method2 2.962
+exp2 25 100 true method1 3.141
+exp2 25 100 true method2 3.104
+exp2 25 100 100 method1 2.821
+exp2 25 100 100 method2 2.707
+exp2 25 100 500 method1 2.616
+exp2 25 100 500 method2 2.616
+exp2 25 100 true method1 2.795
+exp2 25 100 true method2 2.72
+exp2 25 100 100 method1 2.652
+exp2 25 100 100 method2 2.661
+exp2 25 100 500 method1 2.707
+exp2 25 100 500 method2 2.707
+exp2 25 100 true method1 3.532
+exp2 25 100 true method2 3.066
+exp2 25 100 100 method1 3.414
+exp2 25 100 100 method2 3.246
+exp2 25 100 500 method1 3.254
+exp2 25 100 500 method2 3.254
+exp2 25 100 true method1 3.108
+exp2 25 100 true method2 2.92
+exp2 25 100 100 method1 3.2
+exp2 25 100 100 method2 3.022
+exp2 25 100 500 method1 2.962
+exp2 25 100 500 method2 2.962
+exp2 25 100 true method1 3.085
+exp2 25 100 true method2 2.922
+exp2 25 100 100 method1 2.551
+exp2 25 100 100 method2 2.583
+exp2 25 100 500 method1 2.564
+exp2 25 100 500 method2 2.564
+exp2 25 100 true method1 3.357
+exp2 25 100 true method2 3.049
+exp2 25 100 100 method1 2.899
+exp2 25 100 100 method2 2.818
+exp2 25 100 500 method1 2.82
+exp2 25 100 500 method2 2.82
+exp2 25 100 true method1 3.352
+exp2 25 100 true method2 3.336
+exp2 25 100 100 method1 2.585
+exp2 25 100 100 method2 2.592
+exp2 25 100 500 method1 2.582
+exp2 25 100 500 method2 2.582
+exp2 25 100 true method1 3.293
+exp2 25 100 true method2 3.245
+exp2 25 100 100 method1 2.794
+exp2 25 100 100 method2 2.774
+exp2 25 100 500 method1 2.534
+exp2 25 100 500 method2 2.534
+exp2 25 100 true method1 2.996
+exp2 25 100 true method2 2.915
+exp2 25 100 100 method1 2.882
+exp2 25 100 100 method2 2.739
+exp2 25 100 500 method1 2.754
+exp2 25 100 500 method2 2.754
+exp2 25 1000 true method1 52.695
+exp2 25 1000 true method2 37.157
+exp2 25 1000 100 method1 57.968
+exp2 25 1000 100 method2 43.928
+exp2 25 1000 500 method1 55.596
+exp2 25 1000 500 method2 55.596
+exp2 25 1000 true method1 39.475
+exp2 25 1000 true method2 28.633
+exp2 25 1000 100 method1 47.59
+exp2 25 1000 100 method2 35.735
+exp2 25 1000 500 method1 43.89
+exp2 25 1000 500 method2 43.89
+exp2 25 1000 true method1 95.069
+exp2 25 1000 true method2 61.012
+exp2 25 1000 100 method1 96.445
+exp2 25 1000 100 method2 71.703
+exp2 25 1000 500 method1 95.62
+exp2 25 1000 500 method2 95.62
+exp2 25 1000 true method1 50.184
+exp2 25 1000 true method2 36.537
+exp2 25 1000 100 method1 53.744
+exp2 25 1000 100 method2 44.114
+exp2 25 1000 500 method1 50.534
+exp2 25 1000 500 method2 50.534
+exp2 25 1000 true method1 27.974
+exp2 25 1000 true method2 20.864
+exp2 25 1000 100 method1 28.261
+exp2 25 1000 100 method2 25.745
+exp2 25 1000 500 method1 28.979
+exp2 25 1000 500 method2 28.979
+exp2 25 1000 true method1 31.317
+exp2 25 1000 true method2 23.334
+exp2 25 1000 100 method1 34.529
+exp2 25 1000 100 method2 27.416
+exp2 25 1000 500 method1 32.092
+exp2 25 1000 500 method2 32.092
+exp2 25 1000 true method1 54.639
+exp2 25 1000 true method2 40.462
+exp2 25 1000 100 method1 59.947
+exp2 25 1000 100 method2 53.154
+exp2 25 1000 500 method1 55.402
+exp2 25 1000 500 method2 55.402
+exp2 25 1000 true method1 66.246
+exp2 25 1000 true method2 45.351
+exp2 25 1000 100 method1 70.278
+exp2 25 1000 100 method2 57.196
+exp2 25 1000 500 method1 69.42
+exp2 25 1000 500 method2 69.42
+exp2 25 1000 true method1 100.215
+exp2 25 1000 true method2 87.406
+exp2 25 1000 100 method1 100.493
+exp2 25 1000 100 method2 90.592
+exp2 25 1000 500 method1 103.08
+exp2 25 1000 500 method2 103.08
+exp2 25 1000 true method1 182.924
+exp2 25 1000 true method2 130.44
+exp2 25 1000 100 method1 170.273
+exp2 25 1000 100 method2 137.861
+exp2 25 1000 500 method1 182.424
+exp2 25 1000 500 method2 182.424
+exp2 25 1000 true method1 33.896
+exp2 25 1000 true method2 26.301
+exp2 25 1000 100 method1 35.226
+exp2 25 1000 100 method2 31.823
+exp2 25 1000 500 method1 34.653
+exp2 25 1000 500 method2 34.653
+exp2 25 1000 true method1 49.226
+exp2 25 1000 true method2 34.373
+exp2 25 1000 100 method1 59.904
+exp2 25 1000 100 method2 44.668
+exp2 25 1000 500 method1 51.415
+exp2 25 1000 500 method2 51.415
+exp2 25 1000 true method1 39.665
+exp2 25 1000 true method2 27.244
+exp2 25 1000 100 method1 45.328
+exp2 25 1000 100 method2 33.119
+exp2 25 1000 500 method1 42.482
+exp2 25 1000 500 method2 42.482
+exp2 25 1000 true method1 30.419
+exp2 25 1000 true method2 23.75
+exp2 25 1000 100 method1 34.672
+exp2 25 1000 100 method2 30.309
+exp2 25 1000 500 method1 30.882
+exp2 25 1000 500 method2 30.882
+exp2 25 1000 true method1 37.421
+exp2 25 1000 true method2 23.682
+exp2 25 1000 100 method1 41.875
+exp2 25 1000 100 method2 30.343
+exp2 25 1000 500 method1 41.437
+exp2 25 1000 500 method2 41.437
+exp2 25 1000 true method1 70.095
+exp2 25 1000 true method2 60.487
+exp2 25 1000 100 method1 82.117
+exp2 25 1000 100 method2 76.93
+exp2 25 1000 500 method1 73.449
+exp2 25 1000 500 method2 73.449
+exp2 25 1000 true method1 57.444
+exp2 25 1000 true method2 40.762
+exp2 25 1000 100 method1 54.314
+exp2 25 1000 100 method2 44.029
+exp2 25 1000 500 method1 57.467
+exp2 25 1000 500 method2 57.467
+exp2 25 1000 true method1 51.357
+exp2 25 1000 true method2 36.486
+exp2 25 1000 100 method1 52.586
+exp2 25 1000 100 method2 39.678
+exp2 25 1000 500 method1 53.114
+exp2 25 1000 500 method2 53.114
+exp2 25 1000 true method1 67.834
+exp2 25 1000 true method2 38.173
+exp2 25 1000 100 method1 72.033
+exp2 25 1000 100 method2 40.503
+exp2 25 1000 500 method1 69.907
+exp2 25 1000 500 method2 69.907
+exp2 25 1000 true method1 51.467
+exp2 25 1000 true method2 31.446
+exp2 25 1000 100 method1 53.909
+exp2 25 1000 100 method2 34.273
+exp2 25 1000 500 method1 52.736
+exp2 25 1000 500 method2 52.736
+exp2 25 1000 true method1 74.286
+exp2 25 1000 true method2 47.658
+exp2 25 1000 100 method1 64.671
+exp2 25 1000 100 method2 57.074
+exp2 25 1000 500 method1 65.062
+exp2 25 1000 500 method2 65.062
+exp2 25 1000 true method1 41.399
+exp2 25 1000 true method2 31.008
+exp2 25 1000 100 method1 46.139
+exp2 25 1000 100 method2 38.948
+exp2 25 1000 500 method1 41.661
+exp2 25 1000 500 method2 41.661
+exp2 25 1000 true method1 59.517
+exp2 25 1000 true method2 41.889
+exp2 25 1000 100 method1 63.366
+exp2 25 1000 100 method2 50.784
+exp2 25 1000 500 method1 62.47
+exp2 25 1000 500 method2 62.47
+exp2 25 1000 true method1 69.261
+exp2 25 1000 true method2 48.159
+exp2 25 1000 100 method1 80.34
+exp2 25 1000 100 method2 66.356
+exp2 25 1000 500 method1 77.385
+exp2 25 1000 500 method2 77.385
+exp2 25 1000 true method1 41.838
+exp2 25 1000 true method2 30.971
+exp2 25 1000 100 method1 48.077
+exp2 25 1000 100 method2 35.611
+exp2 25 1000 500 method1 43.689
+exp2 25 1000 500 method2 43.689
+exp2 25 1000 true method1 41.304
+exp2 25 1000 true method2 25.214
+exp2 25 1000 100 method1 37.284
+exp2 25 1000 100 method2 25.981
+exp2 25 1000 500 method1 41.814
+exp2 25 1000 500 method2 41.814
+exp2 25 1000 true method1 54.412
+exp2 25 1000 true method2 34.587
+exp2 25 1000 100 method1 56.272
+exp2 25 1000 100 method2 37.352
+exp2 25 1000 500 method1 56.198
+exp2 25 1000 500 method2 56.198
+exp2 25 1000 true method1 56.815
+exp2 25 1000 true method2 45.849
+exp2 25 1000 100 method1 64.201
+exp2 25 1000 100 method2 59.617
+exp2 25 1000 500 method1 61.267
+exp2 25 1000 500 method2 61.267
+exp2 25 1000 true method1 30.201
+exp2 25 1000 true method2 21.965
+exp2 25 1000 100 method1 30.697
+exp2 25 1000 100 method2 23.954
+exp2 25 1000 500 method1 31.292
+exp2 25 1000 500 method2 31.292
+exp2 25 1000 true method1 22.641
+exp2 25 1000 true method2 17.689
+exp2 25 1000 100 method1 25.868
+exp2 25 1000 100 method2 20.565
+exp2 25 1000 500 method1 26.524
+exp2 25 1000 500 method2 26.524
+exp2 25 1000 true method1 64.936
+exp2 25 1000 true method2 42.801
+exp2 25 1000 100 method1 65.061
+exp2 25 1000 100 method2 49.873
+exp2 25 1000 500 method1 62.808
+exp2 25 1000 500 method2 62.808
+exp2 25 1000 true method1 62.908
+exp2 25 1000 true method2 38.071
+exp2 25 1000 100 method1 77.692
+exp2 25 1000 100 method2 56.547
+exp2 25 1000 500 method1 66.154
+exp2 25 1000 500 method2 66.154
+exp2 25 1000 true method1 36.303
+exp2 25 1000 true method2 25.667
+exp2 25 1000 100 method1 43.139
+exp2 25 1000 100 method2 29.847
+exp2 25 1000 500 method1 40.116
+exp2 25 1000 500 method2 40.116
+exp2 25 1000 true method1 32.756
+exp2 25 1000 true method2 24.018
+exp2 25 1000 100 method1 39.86
+exp2 25 1000 100 method2 29.903
+exp2 25 1000 500 method1 35.869
+exp2 25 1000 500 method2 35.869
+exp2 25 1000 true method1 77.865
+exp2 25 1000 true method2 52.31
+exp2 25 1000 100 method1 84.595
+exp2 25 1000 100 method2 65.353
+exp2 25 1000 500 method1 78.689
+exp2 25 1000 500 method2 78.689
+exp2 25 1000 true method1 44.441
+exp2 25 1000 true method2 27.887
+exp2 25 1000 100 method1 47.498
+exp2 25 1000 100 method2 34.741
+exp2 25 1000 500 method1 45.259
+exp2 25 1000 500 method2 45.259
+exp2 25 1000 true method1 43.756
+exp2 25 1000 true method2 25.174
+exp2 25 1000 100 method1 40.371
+exp2 25 1000 100 method2 28.414
+exp2 25 1000 500 method1 41.983
+exp2 25 1000 500 method2 41.983
+exp2 25 1000 true method1 82.409
+exp2 25 1000 true method2 64.218
+exp2 25 1000 100 method1 92.362
+exp2 25 1000 100 method2 79.335
+exp2 25 1000 500 method1 88.675
+exp2 25 1000 500 method2 88.675
+exp2 25 1000 true method1 63.181
+exp2 25 1000 true method2 52.944
+exp2 25 1000 100 method1 74.413
+exp2 25 1000 100 method2 68.024
+exp2 25 1000 500 method1 64.94
+exp2 25 1000 500 method2 64.94
+exp2 25 1000 true method1 29.44
+exp2 25 1000 true method2 21.086
+exp2 25 1000 100 method1 36.119
+exp2 25 1000 100 method2 28.573
+exp2 25 1000 500 method1 31.132
+exp2 25 1000 500 method2 31.132
+exp2 25 1000 true method1 44.26
+exp2 25 1000 true method2 31.773
+exp2 25 1000 100 method1 52.897
+exp2 25 1000 100 method2 42.538
+exp2 25 1000 500 method1 46.341
+exp2 25 1000 500 method2 46.341
+exp2 25 1000 true method1 41.687
+exp2 25 1000 true method2 27.85
+exp2 25 1000 100 method1 46.519
+exp2 25 1000 100 method2 34.692
+exp2 25 1000 500 method1 42.165
+exp2 25 1000 500 method2 42.165
+exp2 25 1000 true method1 66.529
+exp2 25 1000 true method2 43.718
+exp2 25 1000 100 method1 67.967
+exp2 25 1000 100 method2 48.663
+exp2 25 1000 500 method1 66.467
+exp2 25 1000 500 method2 66.467
+exp2 25 1000 true method1 78.507
+exp2 25 1000 true method2 58.198
+exp2 25 1000 100 method1 89.942
+exp2 25 1000 100 method2 68.542
+exp2 25 1000 500 method1 86.158
+exp2 25 1000 500 method2 86.158
+exp2 25 1000 true method1 35.56
+exp2 25 1000 true method2 25.128
+exp2 25 1000 100 method1 37.768
+exp2 25 1000 100 method2 29.125
+exp2 25 1000 500 method1 34.915
+exp2 25 1000 500 method2 34.915
+exp2 25 1000 true method1 38.887
+exp2 25 1000 true method2 29.619
+exp2 25 1000 100 method1 41.073
+exp2 25 1000 100 method2 31.574
+exp2 25 1000 500 method1 39.688
+exp2 25 1000 500 method2 39.688
+exp2 25 1000 true method1 21.935
+exp2 25 1000 true method2 16.625
+exp2 25 1000 100 method1 22.303
+exp2 25 1000 100 method2 20.414
+exp2 25 1000 500 method1 21.311
+exp2 25 1000 500 method2 21.311
+exp2 25 1000 true method1 82.234
+exp2 25 1000 true method2 51.963
+exp2 25 1000 100 method1 75.085
+exp2 25 1000 100 method2 56.723
+exp2 25 1000 500 method1 80.784
+exp2 25 1000 500 method2 80.784
+exp2 25 1000 true method1 76.4
+exp2 25 1000 true method2 72.121
+exp2 25 1000 100 method1 93.9
+exp2 25 1000 100 method2 93.178
+exp2 25 1000 500 method1 82.392
+exp2 25 1000 500 method2 82.392
+exp2 25 1000 true method1 33.188
+exp2 25 1000 true method2 27.315
+exp2 25 1000 100 method1 38.382
+exp2 25 1000 100 method2 32.892
+exp2 25 1000 500 method1 35.436
+exp2 25 1000 500 method2 35.436
+exp2 25 10000 true method1 40.725
+exp2 25 10000 true method2 207.396
+exp2 25 10000 100 method1 285.304
+exp2 25 10000 100 method2 275.587
+exp2 25 10000 500 method1 253.014
+exp2 25 10000 500 method2 253.014
+exp2 25 10000 true method1 41.526
+exp2 25 10000 true method2 129.161
+exp2 25 10000 100 method1 210.277
+exp2 25 10000 100 method2 176.692
+exp2 25 10000 500 method1 185.566
+exp2 25 10000 500 method2 185.566
+exp2 25 10000 true method1 48.503
+exp2 25 10000 true method2 331.797
+exp2 25 10000 100 method1 253.449
+exp2 25 10000 100 method2 316.291
+exp2 25 10000 500 method1 240.403
+exp2 25 10000 500 method2 240.403
+exp2 25 10000 true method1 46.265
+exp2 25 10000 true method2 113.085
+exp2 25 10000 100 method1 166.291
+exp2 25 10000 100 method2 136.464
+exp2 25 10000 500 method1 150.477
+exp2 25 10000 500 method2 150.477
+exp2 25 10000 true method1 37.664
+exp2 25 10000 true method2 46.076
+exp2 25 10000 100 method1 80.861
+exp2 25 10000 100 method2 77.51
+exp2 25 10000 500 method1 63.02
+exp2 25 10000 500 method2 63.02
+exp2 25 10000 true method1 39.573
+exp2 25 10000 true method2 68.611
+exp2 25 10000 100 method1 116.269
+exp2 25 10000 100 method2 91.945
+exp2 25 10000 500 method1 107.942
+exp2 25 10000 500 method2 107.942
+exp2 25 10000 true method1 38.582
+exp2 25 10000 true method2 166.158
+exp2 25 10000 100 method1 246.876
+exp2 25 10000 100 method2 242.088
+exp2 25 10000 500 method1 235.319
+exp2 25 10000 500 method2 235.319
+exp2 25 10000 true method1 41.0
+exp2 25 10000 true method2 93.319
+exp2 25 10000 100 method1 95.873
+exp2 25 10000 100 method2 99.711
+exp2 25 10000 500 method1 94.441
+exp2 25 10000 500 method2 94.441
+exp2 25 10000 true method1 42.205
+exp2 25 10000 true method2 407.731
+exp2 25 10000 100 method1 470.869
+exp2 25 10000 100 method2 494.534
+exp2 25 10000 500 method1 457.648
+exp2 25 10000 500 method2 457.648
+exp2 25 10000 true method1 49.082
+exp2 25 10000 true method2 778.59
+exp2 25 10000 100 method1 963.275
+exp2 25 10000 100 method2 1071.591
+exp2 25 10000 500 method1 1025.512
+exp2 25 10000 500 method2 1025.512
+exp2 25 10000 true method1 37.022
+exp2 25 10000 true method2 50.955
+exp2 25 10000 100 method1 62.236
+exp2 25 10000 100 method2 66.088
+exp2 25 10000 500 method1 55.463
+exp2 25 10000 500 method2 55.463
+exp2 25 10000 true method1 35.129
+exp2 25 10000 true method2 91.802
+exp2 25 10000 100 method1 149.944
+exp2 25 10000 100 method2 119.477
+exp2 25 10000 500 method1 146.478
+exp2 25 10000 500 method2 146.478
+exp2 25 10000 true method1 43.864
+exp2 25 10000 true method2 107.677
+exp2 25 10000 100 method1 114.837
+exp2 25 10000 100 method2 118.535
+exp2 25 10000 500 method1 99.725
+exp2 25 10000 500 method2 99.725
+exp2 25 10000 true method1 38.884
+exp2 25 10000 true method2 79.048
+exp2 25 10000 100 method1 108.726
+exp2 25 10000 100 method2 94.682
+exp2 25 10000 500 method1 94.601
+exp2 25 10000 500 method2 94.601
+exp2 25 10000 true method1 39.961
+exp2 25 10000 true method2 54.169
+exp2 25 10000 100 method1 76.197
+exp2 25 10000 100 method2 59.447
+exp2 25 10000 500 method1 66.153
+exp2 25 10000 500 method2 66.153
+exp2 25 10000 true method1 52.048
+exp2 25 10000 true method2 343.062
+exp2 25 10000 100 method1 385.935
+exp2 25 10000 100 method2 465.852
+exp2 25 10000 500 method1 331.207
+exp2 25 10000 500 method2 331.207
+exp2 25 10000 true method1 42.452
+exp2 25 10000 true method2 123.856
+exp2 25 10000 100 method1 166.814
+exp2 25 10000 100 method2 159.861
+exp2 25 10000 500 method1 150.354
+exp2 25 10000 500 method2 150.354
+exp2 25 10000 true method1 39.278
+exp2 25 10000 true method2 80.638
+exp2 25 10000 100 method1 78.729
+exp2 25 10000 100 method2 78.825
+exp2 25 10000 500 method1 83.492
+exp2 25 10000 500 method2 83.492
+exp2 25 10000 true method1 44.296
+exp2 25 10000 true method2 148.157
+exp2 25 10000 100 method1 153.541
+exp2 25 10000 100 method2 142.988
+exp2 25 10000 500 method1 146.011
+exp2 25 10000 500 method2 146.011
+exp2 25 10000 true method1 42.726
+exp2 25 10000 true method2 75.818
+exp2 25 10000 100 method1 114.511
+exp2 25 10000 100 method2 93.204
+exp2 25 10000 500 method1 98.194
+exp2 25 10000 500 method2 98.194
+exp2 25 10000 true method1 36.836
+exp2 25 10000 true method2 122.999
+exp2 25 10000 100 method1 123.82
+exp2 25 10000 100 method2 133.864
+exp2 25 10000 500 method1 154.338
+exp2 25 10000 500 method2 154.338
+exp2 25 10000 true method1 35.856
+exp2 25 10000 true method2 102.889
+exp2 25 10000 100 method1 147.336
+exp2 25 10000 100 method2 143.065
+exp2 25 10000 500 method1 128.014
+exp2 25 10000 500 method2 128.014
+exp2 25 10000 true method1 38.292
+exp2 25 10000 true method2 175.857
+exp2 25 10000 100 method1 249.324
+exp2 25 10000 100 method2 236.523
+exp2 25 10000 500 method1 235.092
+exp2 25 10000 500 method2 235.092
+exp2 25 10000 true method1 47.048
+exp2 25 10000 true method2 245.231
+exp2 25 10000 100 method1 352.343
+exp2 25 10000 100 method2 336.884
+exp2 25 10000 500 method1 322.846
+exp2 25 10000 500 method2 322.846
+exp2 25 10000 true method1 43.123
+exp2 25 10000 true method2 101.189
+exp2 25 10000 100 method1 162.079
+exp2 25 10000 100 method2 138.031
+exp2 25 10000 500 method1 132.665
+exp2 25 10000 500 method2 132.665
+exp2 25 10000 true method1 43.627
+exp2 25 10000 true method2 58.342
+exp2 25 10000 100 method1 74.69
+exp2 25 10000 100 method2 59.575
+exp2 25 10000 500 method1 75.142
+exp2 25 10000 500 method2 75.142
+exp2 25 10000 true method1 37.692
+exp2 25 10000 true method2 80.148
+exp2 25 10000 100 method1 110.585
+exp2 25 10000 100 method2 97.677
+exp2 25 10000 500 method1 103.134
+exp2 25 10000 500 method2 103.134
+exp2 25 10000 true method1 35.848
+exp2 25 10000 true method2 213.278
+exp2 25 10000 100 method1 323.067
+exp2 25 10000 100 method2 338.745
+exp2 25 10000 500 method1 290.28
+exp2 25 10000 500 method2 290.28
+exp2 25 10000 true method1 41.573
+exp2 25 10000 true method2 61.513
+exp2 25 10000 100 method1 92.799
+exp2 25 10000 100 method2 72.522
+exp2 25 10000 500 method1 93.401
+exp2 25 10000 500 method2 93.401
+exp2 25 10000 true method1 39.222
+exp2 25 10000 true method2 51.756
+exp2 25 10000 100 method1 56.392
+exp2 25 10000 100 method2 49.428
+exp2 25 10000 500 method1 55.966
+exp2 25 10000 500 method2 55.966
+exp2 25 10000 true method1 39.122
+exp2 25 10000 true method2 89.23
+exp2 25 10000 100 method1 120.21
+exp2 25 10000 100 method2 102.262
+exp2 25 10000 500 method1 114.528
+exp2 25 10000 500 method2 114.528
+exp2 25 10000 true method1 45.889
+exp2 25 10000 true method2 222.811
+exp2 25 10000 100 method1 237.705
+exp2 25 10000 100 method2 280.003
+exp2 25 10000 500 method1 217.766
+exp2 25 10000 500 method2 217.766
+exp2 25 10000 true method1 44.068
+exp2 25 10000 true method2 71.552
+exp2 25 10000 100 method1 126.169
+exp2 25 10000 100 method2 103.815
+exp2 25 10000 500 method1 102.772
+exp2 25 10000 500 method2 102.772
+exp2 25 10000 true method1 41.176
+exp2 25 10000 true method2 82.223
+exp2 25 10000 100 method1 82.351
+exp2 25 10000 100 method2 86.197
+exp2 25 10000 500 method1 77.891
+exp2 25 10000 500 method2 77.891
+exp2 25 10000 true method1 52.662
+exp2 25 10000 true method2 498.862
+exp2 25 10000 100 method1 368.402
+exp2 25 10000 100 method2 480.184
+exp2 25 10000 500 method1 329.354
+exp2 25 10000 500 method2 329.354
+exp2 25 10000 true method1 38.269
+exp2 25 10000 true method2 64.949
+exp2 25 10000 100 method1 98.913
+exp2 25 10000 100 method2 82.04
+exp2 25 10000 500 method1 82.036
+exp2 25 10000 500 method2 82.036
+exp2 25 10000 true method1 43.593
+exp2 25 10000 true method2 50.958
+exp2 25 10000 100 method1 51.802
+exp2 25 10000 100 method2 53.462
+exp2 25 10000 500 method1 51.164
+exp2 25 10000 500 method2 51.164
+exp2 25 10000 true method1 43.747
+exp2 25 10000 true method2 574.015
+exp2 25 10000 100 method1 555.784
+exp2 25 10000 100 method2 661.516
+exp2 25 10000 500 method1 535.865
+exp2 25 10000 500 method2 535.865
+exp2 25 10000 true method1 40.578
+exp2 25 10000 true method2 322.835
+exp2 25 10000 100 method1 399.228
+exp2 25 10000 100 method2 497.591
+exp2 25 10000 500 method1 348.577
+exp2 25 10000 500 method2 348.577
+exp2 25 10000 true method1 39.031
+exp2 25 10000 true method2 68.822
+exp2 25 10000 100 method1 107.043
+exp2 25 10000 100 method2 94.468
+exp2 25 10000 500 method1 99.89
+exp2 25 10000 500 method2 99.89
+exp2 25 10000 true method1 47.273
+exp2 25 10000 true method2 134.949
+exp2 25 10000 100 method1 199.469
+exp2 25 10000 100 method2 172.956
+exp2 25 10000 500 method1 185.647
+exp2 25 10000 500 method2 185.647
+exp2 25 10000 true method1 42.615
+exp2 25 10000 true method2 81.416
+exp2 25 10000 100 method1 161.558
+exp2 25 10000 100 method2 132.378
+exp2 25 10000 500 method1 114.55
+exp2 25 10000 500 method2 114.55
+exp2 25 10000 true method1 50.637
+exp2 25 10000 true method2 129.403
+exp2 25 10000 100 method1 210.474
+exp2 25 10000 100 method2 171.095
+exp2 25 10000 500 method1 211.428
+exp2 25 10000 500 method2 211.428
+exp2 25 10000 true method1 44.403
+exp2 25 10000 true method2 437.795
+exp2 25 10000 100 method1 342.602
+exp2 25 10000 100 method2 491.055
+exp2 25 10000 500 method1 313.19
+exp2 25 10000 500 method2 313.19
+exp2 25 10000 true method1 40.922
+exp2 25 10000 true method2 61.182
+exp2 25 10000 100 method1 103.015
+exp2 25 10000 100 method2 82.773
+exp2 25 10000 500 method1 94.532
+exp2 25 10000 500 method2 94.532
+exp2 25 10000 true method1 33.5
+exp2 25 10000 true method2 83.515
+exp2 25 10000 100 method1 148.508
+exp2 25 10000 100 method2 129.519
+exp2 25 10000 500 method1 128.147
+exp2 25 10000 500 method2 128.147
+exp2 25 10000 true method1 34.304
+exp2 25 10000 true method2 38.762
+exp2 25 10000 100 method1 49.626
+exp2 25 10000 100 method2 46.988
+exp2 25 10000 500 method1 46.336
+exp2 25 10000 500 method2 46.336
+exp2 25 10000 true method1 37.931
+exp2 25 10000 true method2 108.531
+exp2 25 10000 100 method1 95.017
+exp2 25 10000 100 method2 107.709
+exp2 25 10000 500 method1 105.648
+exp2 25 10000 500 method2 105.648
+exp2 25 10000 true method1 49.815
+exp2 25 10000 true method2 647.188
+exp2 25 10000 100 method1 554.268
+exp2 25 10000 100 method2 869.956
+exp2 25 10000 500 method1 500.096
+exp2 25 10000 500 method2 500.096
+exp2 25 10000 true method1 36.467
+exp2 25 10000 true method2 98.834
+exp2 25 10000 100 method1 128.768
+exp2 25 10000 100 method2 114.373
+exp2 25 10000 500 method1 117.139
+exp2 25 10000 500 method2 117.139
+exp2 25 25 true method1 2.347
+exp2 25 25 true method2 2.194
+exp2 25 25 100 method1 2.277
+exp2 25 25 100 method2 2.199
+exp2 25 25 500 method1 2.201
+exp2 25 25 500 method2 2.201
+exp2 25 25 true method1 2.513
+exp2 25 25 true method2 2.077
+exp2 25 25 100 method1 2.135
+exp2 25 25 100 method2 2.028
+exp2 25 25 500 method1 2.201
+exp2 25 25 500 method2 2.201
+exp2 25 25 true method1 1.863
+exp2 25 25 true method2 1.881
+exp2 25 25 100 method1 2.097
+exp2 25 25 100 method2 2.072
+exp2 25 25 500 method1 2.308
+exp2 25 25 500 method2 2.308
+exp2 25 25 true method1 2.08
+exp2 25 25 true method2 2.016
+exp2 25 25 100 method1 2.315
+exp2 25 25 100 method2 2.296
+exp2 25 25 500 method1 2.14
+exp2 25 25 500 method2 2.14
+exp2 25 25 true method1 2.031
+exp2 25 25 true method2 1.961
+exp2 25 25 100 method1 1.981
+exp2 25 25 100 method2 1.957
+exp2 25 25 500 method1 1.882
+exp2 25 25 500 method2 1.882
+exp2 25 25 true method1 1.907
+exp2 25 25 true method2 1.881
+exp2 25 25 100 method1 1.907
+exp2 25 25 100 method2 1.889
+exp2 25 25 500 method1 1.884
+exp2 25 25 500 method2 1.884
+exp2 25 25 true method1 1.91
+exp2 25 25 true method2 1.83
+exp2 25 25 100 method1 1.92
+exp2 25 25 100 method2 1.806
+exp2 25 25 500 method1 1.721
+exp2 25 25 500 method2 1.721
+exp2 25 25 true method1 2.431
+exp2 25 25 true method2 2.199
+exp2 25 25 100 method1 1.841
+exp2 25 25 100 method2 1.777
+exp2 25 25 500 method1 1.823
+exp2 25 25 500 method2 1.823
+exp2 25 25 true method1 2.235
+exp2 25 25 true method2 2.109
+exp2 25 25 100 method1 1.824
+exp2 25 25 100 method2 1.708
+exp2 25 25 500 method1 1.74
+exp2 25 25 500 method2 1.74
+exp2 25 25 true method1 2.777
+exp2 25 25 true method2 2.545
+exp2 25 25 100 method1 2.002
+exp2 25 25 100 method2 2.01
+exp2 25 25 500 method1 1.959
+exp2 25 25 500 method2 1.959
+exp2 25 25 true method1 2.062
+exp2 25 25 true method2 2.056
+exp2 25 25 100 method1 1.865
+exp2 25 25 100 method2 1.815
+exp2 25 25 500 method1 1.808
+exp2 25 25 500 method2 1.808
+exp2 25 25 true method1 2.305
+exp2 25 25 true method2 2.094
+exp2 25 25 100 method1 1.886
+exp2 25 25 100 method2 1.864
+exp2 25 25 500 method1 1.872
+exp2 25 25 500 method2 1.872
+exp2 25 25 true method1 2.526
+exp2 25 25 true method2 2.117
+exp2 25 25 100 method1 1.985
+exp2 25 25 100 method2 1.925
+exp2 25 25 500 method1 1.856
+exp2 25 25 500 method2 1.856
+exp2 25 25 true method1 2.156
+exp2 25 25 true method2 1.988
+exp2 25 25 100 method1 1.728
+exp2 25 25 100 method2 1.677
+exp2 25 25 500 method1 1.656
+exp2 25 25 500 method2 1.656
+exp2 25 25 true method1 2.442
+exp2 25 25 true method2 2.103
+exp2 25 25 100 method1 1.935
+exp2 25 25 100 method2 1.856
+exp2 25 25 500 method1 1.895
+exp2 25 25 500 method2 1.895
+exp2 25 25 true method1 2.909
+exp2 25 25 true method2 2.473
+exp2 25 25 100 method1 2.065
+exp2 25 25 100 method2 2.03
+exp2 25 25 500 method1 2.027
+exp2 25 25 500 method2 2.027
+exp2 25 25 true method1 2.344
+exp2 25 25 true method2 2.397
+exp2 25 25 100 method1 1.864
+exp2 25 25 100 method2 1.848
+exp2 25 25 500 method1 1.791
+exp2 25 25 500 method2 1.791
+exp2 25 25 true method1 2.32
+exp2 25 25 true method2 2.185
+exp2 25 25 100 method1 1.935
+exp2 25 25 100 method2 1.881
+exp2 25 25 500 method1 2.007
+exp2 25 25 500 method2 2.007
+exp2 25 25 true method1 2.319
+exp2 25 25 true method2 2.256
+exp2 25 25 100 method1 1.941
+exp2 25 25 100 method2 1.918
+exp2 25 25 500 method1 1.967
+exp2 25 25 500 method2 1.967
+exp2 25 25 true method1 2.824
+exp2 25 25 true method2 2.329
+exp2 25 25 100 method1 1.981
+exp2 25 25 100 method2 1.952
+exp2 25 25 500 method1 1.999
+exp2 25 25 500 method2 1.999
+exp2 25 25 true method1 2.528
+exp2 25 25 true method2 2.209
+exp2 25 25 100 method1 1.95
+exp2 25 25 100 method2 1.916
+exp2 25 25 500 method1 1.882
+exp2 25 25 500 method2 1.882
+exp2 25 25 true method1 2.616
+exp2 25 25 true method2 2.452
+exp2 25 25 100 method1 2.044
+exp2 25 25 100 method2 2.059
+exp2 25 25 500 method1 1.863
+exp2 25 25 500 method2 1.863
+exp2 25 25 true method1 1.936
+exp2 25 25 true method2 1.961
+exp2 25 25 100 method1 2.293
+exp2 25 25 100 method2 2.233
+exp2 25 25 500 method1 2.171
+exp2 25 25 500 method2 2.171
+exp2 25 25 true method1 1.884
+exp2 25 25 true method2 1.808
+exp2 25 25 100 method1 1.884
+exp2 25 25 100 method2 1.86
+exp2 25 25 500 method1 1.785
+exp2 25 25 500 method2 1.785
+exp2 25 25 true method1 2.621
+exp2 25 25 true method2 2.272
+exp2 25 25 100 method1 1.863
+exp2 25 25 100 method2 1.903
+exp2 25 25 500 method1 1.8
+exp2 25 25 500 method2 1.8
+exp2 25 25 true method1 2.274
+exp2 25 25 true method2 1.989
+exp2 25 25 100 method1 2.103
+exp2 25 25 100 method2 1.957
+exp2 25 25 500 method1 1.918
+exp2 25 25 500 method2 1.918
+exp2 25 25 true method1 2.639
+exp2 25 25 true method2 2.377
+exp2 25 25 100 method1 2.473
+exp2 25 25 100 method2 2.385
+exp2 25 25 500 method1 2.382
+exp2 25 25 500 method2 2.382
+exp2 25 25 true method1 2.838
+exp2 25 25 true method2 2.36
+exp2 25 25 100 method1 2.028
+exp2 25 25 100 method2 2.047
+exp2 25 25 500 method1 1.929
+exp2 25 25 500 method2 1.929
+exp2 25 25 true method1 2.588
+exp2 25 25 true method2 2.284
+exp2 25 25 100 method1 1.972
+exp2 25 25 100 method2 1.972
+exp2 25 25 500 method1 1.871
+exp2 25 25 500 method2 1.871
+exp2 25 25 true method1 2.421
+exp2 25 25 true method2 2.051
+exp2 25 25 100 method1 2.022
+exp2 25 25 100 method2 1.977
+exp2 25 25 500 method1 2.095
+exp2 25 25 500 method2 2.095
+exp2 25 25 true method1 2.565
+exp2 25 25 true method2 2.371
+exp2 25 25 100 method1 1.907
+exp2 25 25 100 method2 1.94
+exp2 25 25 500 method1 1.953
+exp2 25 25 500 method2 1.953
+exp2 25 25 true method1 1.933
+exp2 25 25 true method2 1.889
+exp2 25 25 100 method1 2.338
+exp2 25 25 100 method2 2.229
+exp2 25 25 500 method1 2.151
+exp2 25 25 500 method2 2.151
+exp2 25 25 true method1 1.814
+exp2 25 25 true method2 1.852
+exp2 25 25 100 method1 1.978
+exp2 25 25 100 method2 1.914
+exp2 25 25 500 method1 1.778
+exp2 25 25 500 method2 1.778
+exp2 25 25 true method1 2.316
+exp2 25 25 true method2 2.138
+exp2 25 25 100 method1 2.149
+exp2 25 25 100 method2 2.072
+exp2 25 25 500 method1 2.169
+exp2 25 25 500 method2 2.169
+exp2 25 25 true method1 2.432
+exp2 25 25 true method2 2.314
+exp2 25 25 100 method1 2.058
+exp2 25 25 100 method2 2.011
+exp2 25 25 500 method1 1.856
+exp2 25 25 500 method2 1.856
+exp2 25 25 true method1 2.15
+exp2 25 25 true method2 2.113
+exp2 25 25 100 method1 2.218
+exp2 25 25 100 method2 2.254
+exp2 25 25 500 method1 2.104
+exp2 25 25 500 method2 2.104
+exp2 25 25 true method1 2.406
+exp2 25 25 true method2 2.204
+exp2 25 25 100 method1 1.842
+exp2 25 25 100 method2 1.811
+exp2 25 25 500 method1 1.865
+exp2 25 25 500 method2 1.865
+exp2 25 25 true method1 2.764
+exp2 25 25 true method2 2.537
+exp2 25 25 100 method1 1.886
+exp2 25 25 100 method2 1.969
+exp2 25 25 500 method1 2.036
+exp2 25 25 500 method2 2.036
+exp2 25 25 true method1 2.512
+exp2 25 25 true method2 2.162
+exp2 25 25 100 method1 1.908
+exp2 25 25 100 method2 1.882
+exp2 25 25 500 method1 1.857
+exp2 25 25 500 method2 1.857
+exp2 25 25 true method1 1.969
+exp2 25 25 true method2 1.831
+exp2 25 25 100 method1 1.836
+exp2 25 25 100 method2 1.781
+exp2 25 25 500 method1 1.776
+exp2 25 25 500 method2 1.776
+exp2 25 25 true method1 2.158
+exp2 25 25 true method2 2.139
+exp2 25 25 100 method1 1.979
+exp2 25 25 100 method2 1.961
+exp2 25 25 500 method1 1.928
+exp2 25 25 500 method2 1.928
+exp2 25 25 true method1 2.164
+exp2 25 25 true method2 2.096
+exp2 25 25 100 method1 1.946
+exp2 25 25 100 method2 1.898
+exp2 25 25 500 method1 1.818
+exp2 25 25 500 method2 1.818
+exp2 25 25 true method1 1.989
+exp2 25 25 true method2 1.958
+exp2 25 25 100 method1 1.768
+exp2 25 25 100 method2 1.926
+exp2 25 25 500 method1 1.882
+exp2 25 25 500 method2 1.882
+exp2 25 25 true method1 2.478
+exp2 25 25 true method2 2.346
+exp2 25 25 100 method1 1.835
+exp2 25 25 100 method2 2.076
+exp2 25 25 500 method1 1.839
+exp2 25 25 500 method2 1.839
+exp2 25 25 true method1 2.147
+exp2 25 25 true method2 2.186
+exp2 25 25 100 method1 1.744
+exp2 25 25 100 method2 1.691
+exp2 25 25 500 method1 1.682
+exp2 25 25 500 method2 1.682
+exp2 25 25 true method1 2.376
+exp2 25 25 true method2 2.122
+exp2 25 25 100 method1 2.601
+exp2 25 25 100 method2 2.206
+exp2 25 25 500 method1 2.238
+exp2 25 25 500 method2 2.238
+exp2 25 25 true method1 2.516
+exp2 25 25 true method2 2.293
+exp2 25 25 100 method1 .
+exp2 25 25 100 method1 .
+exp2 25 25 100 method1 .
+exp2 25 25 100 method1 .
+exp2 25 25 100 method2 .
+exp2 25 25 100 method2 .
+exp2 25 25 100 method2 .
+exp2 25 25 100 method2 .
+exp2 25 25 500 method1 2.295
+exp2 25 25 500 method2 2.295
+exp2 25 25 true method1 2.539
+exp2 25 25 true method2 2.323
+exp2 25 25 100 method1 2.719
+exp2 25 25 100 method2 3.065
+exp2 25 25 500 method1 2.059
+exp2 25 25 500 method2 2.059
+exp2 25 25 true method1 2.655
+exp2 25 25 true method2 2.409
+exp2 25 25 100 method1 2.64
+exp2 25 25 100 method2 2.503
+exp2 25 25 500 method1 2.307
+exp2 25 25 500 method2 2.307
+exp2 25 25 true method1 2.428
+exp2 25 25 true method2 2.052
+exp2 25 25 100 method1 2.264
+exp2 25 25 100 method2 2.118
+exp2 25 25 500 method1 2.089
+exp2 25 25 500 method2 2.089
+exp2 25 250 true method1 4.353
+exp2 25 250 true method2 4.322
+exp2 25 250 100 method1 4.637
+exp2 25 250 100 method2 4.489
+exp2 25 250 500 method1 4.692
+exp2 25 250 500 method2 4.692
+exp2 25 250 true method1 4.494
+exp2 25 250 true method2 4.462
+exp2 25 250 100 method1 3.696
+exp2 25 250 100 method2 3.613
+exp2 25 250 500 method1 3.329
+exp2 25 250 500 method2 3.329
+exp2 25 250 true method1 4.83
+exp2 25 250 true method2 4.634
+exp2 25 250 100 method1 4.687
+exp2 25 250 100 method2 4.75
+exp2 25 250 500 method1 4.736
+exp2 25 250 500 method2 4.736
+exp2 25 250 true method1 4.689
+exp2 25 250 true method2 4.586
+exp2 25 250 100 method1 3.685
+exp2 25 250 100 method2 3.901
+exp2 25 250 500 method1 3.691
+exp2 25 250 500 method2 3.691
+exp2 25 250 true method1 4.033
+exp2 25 250 true method2 3.874
+exp2 25 250 100 method1 3.368
+exp2 25 250 100 method2 3.523
+exp2 25 250 500 method1 3.288
+exp2 25 250 500 method2 3.288
+exp2 25 250 true method1 4.165
+exp2 25 250 true method2 4.134
+exp2 25 250 100 method1 4.608
+exp2 25 250 100 method2 4.197
+exp2 25 250 500 method1 4.471
+exp2 25 250 500 method2 4.471
+exp2 25 250 true method1 5.067
+exp2 25 250 true method2 4.388
+exp2 25 250 100 method1 4.263
+exp2 25 250 100 method2 4.079
+exp2 25 250 500 method1 4.417
+exp2 25 250 500 method2 4.417
+exp2 25 250 true method1 4.826
+exp2 25 250 true method2 4.575
+exp2 25 250 100 method1 4.366
+exp2 25 250 100 method2 4.606
+exp2 25 250 500 method1 4.631
+exp2 25 250 500 method2 4.631
+exp2 25 250 true method1 5.195
+exp2 25 250 true method2 4.479
+exp2 25 250 100 method1 4.548
+exp2 25 250 100 method2 4.476
+exp2 25 250 500 method1 4.437
+exp2 25 250 500 method2 4.437
+exp2 25 250 true method1 5.266
+exp2 25 250 true method2 4.918
+exp2 25 250 100 method1 4.934
+exp2 25 250 100 method2 4.978
+exp2 25 250 500 method1 5.034
+exp2 25 250 500 method2 5.034
+exp2 25 250 true method1 4.875
+exp2 25 250 true method2 4.367
+exp2 25 250 100 method1 3.504
+exp2 25 250 100 method2 3.465
+exp2 25 250 500 method1 3.401
+exp2 25 250 500 method2 3.401
+exp2 25 250 true method1 4.318
+exp2 25 250 true method2 4.006
+exp2 25 250 100 method1 4.086
+exp2 25 250 100 method2 3.975
+exp2 25 250 500 method1 4.029
+exp2 25 250 500 method2 4.029
+exp2 25 250 true method1 4.933
+exp2 25 250 true method2 4.616
+exp2 25 250 100 method1 4.637
+exp2 25 250 100 method2 4.34
+exp2 25 250 500 method1 4.42
+exp2 25 250 500 method2 4.42
+exp2 25 250 true method1 4.377
+exp2 25 250 true method2 3.932
+exp2 25 250 100 method1 4.117
+exp2 25 250 100 method2 3.908
+exp2 25 250 500 method1 3.851
+exp2 25 250 500 method2 3.851
+exp2 25 250 true method1 4.787
+exp2 25 250 true method2 4.284
+exp2 25 250 100 method1 4.714
+exp2 25 250 100 method2 4.71
+exp2 25 250 500 method1 4.832
+exp2 25 250 500 method2 4.832
+exp2 25 250 true method1 4.856
+exp2 25 250 true method2 4.797
+exp2 25 250 100 method1 4.826
+exp2 25 250 100 method2 4.749
+exp2 25 250 500 method1 4.682
+exp2 25 250 500 method2 4.682
+exp2 25 250 true method1 4.402
+exp2 25 250 true method2 4.264
+exp2 25 250 100 method1 3.852
+exp2 25 250 100 method2 3.829
+exp2 25 250 500 method1 3.583
+exp2 25 250 500 method2 3.583
+exp2 25 250 true method1 4.163
+exp2 25 250 true method2 4.461
+exp2 25 250 100 method1 4.163
+exp2 25 250 100 method2 4.034
+exp2 25 250 500 method1 4.1
+exp2 25 250 500 method2 4.1
+exp2 25 250 true method1 4.647
+exp2 25 250 true method2 4.844
+exp2 25 250 100 method1 4.733
+exp2 25 250 100 method2 4.717
+exp2 25 250 500 method1 4.408
+exp2 25 250 500 method2 4.408
+exp2 25 250 true method1 4.381
+exp2 25 250 true method2 4.476
+exp2 25 250 100 method1 5.083
+exp2 25 250 100 method2 4.669
+exp2 25 250 500 method1 4.738
+exp2 25 250 500 method2 4.738
+exp2 25 250 true method1 4.062
+exp2 25 250 true method2 4.017
+exp2 25 250 100 method1 4.053
+exp2 25 250 100 method2 3.901
+exp2 25 250 500 method1 4.174
+exp2 25 250 500 method2 4.174
+exp2 25 250 true method1 4.308
+exp2 25 250 true method2 4.104
+exp2 25 250 100 method1 4.308
+exp2 25 250 100 method2 4.228
+exp2 25 250 500 method1 3.916
+exp2 25 250 500 method2 3.916
+exp2 25 250 true method1 4.902
+exp2 25 250 true method2 4.084
+exp2 25 250 100 method1 3.335
+exp2 25 250 100 method2 3.402
+exp2 25 250 500 method1 3.48
+exp2 25 250 500 method2 3.48
+exp2 25 250 true method1 4.829
+exp2 25 250 true method2 4.778
+exp2 25 250 100 method1 4.222
+exp2 25 250 100 method2 4.103
+exp2 25 250 500 method1 4.156
+exp2 25 250 500 method2 4.156
+exp2 25 250 true method1 5.131
+exp2 25 250 true method2 4.456
+exp2 25 250 100 method1 4.172
+exp2 25 250 100 method2 4.094
+exp2 25 250 500 method1 4.521
+exp2 25 250 500 method2 4.521
+exp2 25 250 true method1 5.141
+exp2 25 250 true method2 4.188
+exp2 25 250 100 method1 4.476
+exp2 25 250 100 method2 4.495
+exp2 25 250 500 method1 4.56
+exp2 25 250 500 method2 4.56
+exp2 25 250 true method1 5.135
+exp2 25 250 true method2 4.732
+exp2 25 250 100 method1 4.844
+exp2 25 250 100 method2 5.248
+exp2 25 250 500 method1 4.622
+exp2 25 250 500 method2 4.622
+exp2 25 250 true method1 5.329
+exp2 25 250 true method2 4.5
+exp2 25 250 100 method1 4.579
+exp2 25 250 100 method2 4.631
+exp2 25 250 500 method1 4.383
+exp2 25 250 500 method2 4.383
+exp2 25 250 true method1 4.591
+exp2 25 250 true method2 4.103
+exp2 25 250 100 method1 3.249
+exp2 25 250 100 method2 3.256
+exp2 25 250 500 method1 3.616
+exp2 25 250 500 method2 3.616
+exp2 25 250 true method1 4.271
+exp2 25 250 true method2 4.147
+exp2 25 250 100 method1 4.145
+exp2 25 250 100 method2 3.998
+exp2 25 250 500 method1 4.114
+exp2 25 250 500 method2 4.114
+exp2 25 250 true method1 4.66
+exp2 25 250 true method2 4.837
+exp2 25 250 100 method1 3.387
+exp2 25 250 100 method2 3.438
+exp2 25 250 500 method1 3.717
+exp2 25 250 500 method2 3.717
+exp2 25 250 true method1 4.834
+exp2 25 250 true method2 4.7
+exp2 25 250 100 method1 4.919
+exp2 25 250 100 method2 4.741
+exp2 25 250 500 method1 4.789
+exp2 25 250 500 method2 4.789
+exp2 25 250 true method1 4.173
+exp2 25 250 true method2 4.077
+exp2 25 250 100 method1 4.257
+exp2 25 250 100 method2 4.258
+exp2 25 250 500 method1 4.536
+exp2 25 250 500 method2 4.536
+exp2 25 250 true method1 4.179
+exp2 25 250 true method2 4.161
+exp2 25 250 100 method1 4.248
+exp2 25 250 100 method2 4.273
+exp2 25 250 500 method1 4.277
+exp2 25 250 500 method2 4.277
+exp2 25 250 true method1 4.305
+exp2 25 250 true method2 4.217
+exp2 25 250 100 method1 4.819
+exp2 25 250 100 method2 4.663
+exp2 25 250 500 method1 4.612
+exp2 25 250 500 method2 4.612
+exp2 25 250 true method1 4.174
+exp2 25 250 true method2 4.044
+exp2 25 250 100 method1 4.547
+exp2 25 250 100 method2 4.436
+exp2 25 250 500 method1 4.328
+exp2 25 250 500 method2 4.328
+exp2 25 250 true method1 4.99
+exp2 25 250 true method2 4.316
+exp2 25 250 100 method1 3.518
+exp2 25 250 100 method2 3.324
+exp2 25 250 500 method1 3.281
+exp2 25 250 500 method2 3.281
+exp2 25 250 true method1 4.743
+exp2 25 250 true method2 4.681
+exp2 25 250 100 method1 4.51
+exp2 25 250 100 method2 4.47
+exp2 25 250 500 method1 4.617
+exp2 25 250 500 method2 4.617
+exp2 25 250 true method1 4.739
+exp2 25 250 true method2 4.501
+exp2 25 250 100 method1 4.498
+exp2 25 250 100 method2 4.747
+exp2 25 250 500 method1 4.576
+exp2 25 250 500 method2 4.576
+exp2 25 250 true method1 5.325
+exp2 25 250 true method2 4.516
+exp2 25 250 100 method1 4.184
+exp2 25 250 100 method2 3.947
+exp2 25 250 500 method1 4.403
+exp2 25 250 500 method2 4.403
+exp2 25 250 true method1 5.016
+exp2 25 250 true method2 4.689
+exp2 25 250 100 method1 4.537
+exp2 25 250 100 method2 4.621
+exp2 25 250 500 method1 4.771
+exp2 25 250 500 method2 4.771
+exp2 25 250 true method1 5.128
+exp2 25 250 true method2 4.857
+exp2 25 250 100 method1 4.895
+exp2 25 250 100 method2 4.996
+exp2 25 250 500 method1 4.625
+exp2 25 250 500 method2 4.625
+exp2 25 250 true method1 4.884
+exp2 25 250 true method2 4.816
+exp2 25 250 100 method1 3.952
+exp2 25 250 100 method2 3.908
+exp2 25 250 500 method1 3.758
+exp2 25 250 500 method2 3.758
+exp2 25 250 true method1 5.13
+exp2 25 250 true method2 4.805
+exp2 25 250 100 method1 4.525
+exp2 25 250 100 method2 4.413
+exp2 25 250 500 method1 4.46
+exp2 25 250 500 method2 4.46
+exp2 25 250 true method1 5.002
+exp2 25 250 true method2 4.286
+exp2 25 250 100 method1 4.506
+exp2 25 250 100 method2 4.368
+exp2 25 250 500 method1 4.841
+exp2 25 250 500 method2 4.841
+exp2 25 250 true method1 4.322
+exp2 25 250 true method2 4.498
+exp2 25 250 100 method1 4.1
+exp2 25 250 100 method2 4.158
+exp2 25 250 500 method1 4.563
+exp2 25 250 500 method2 4.563
+exp2 25 250 true method1 3.845
+exp2 25 250 true method2 3.822
+exp2 25 250 100 method1 3.94
+exp2 25 250 100 method2 3.797
+exp2 25 250 500 method1 3.744
+exp2 25 250 500 method2 3.744
+exp2 25 250 true method1 4.728
+exp2 25 250 true method2 4.704
+exp2 25 250 100 method1 4.209
+exp2 25 250 100 method2 4.24
+exp2 25 250 500 method1 4.371
+exp2 25 250 500 method2 4.371
+exp2 25 250 true method1 4.618
+exp2 25 250 true method2 4.704
+exp2 25 250 100 method1 4.786
+exp2 25 250 100 method2 4.415
+exp2 25 250 500 method1 4.519
+exp2 25 250 500 method2 4.519
+exp2 25 250 true method1 3.911
+exp2 25 250 true method2 3.707
+exp2 25 250 100 method1 3.793
+exp2 25 250 100 method2 3.713
+exp2 25 250 500 method1 3.834
+exp2 25 250 500 method2 3.834
+exp2 25 2500 true method1 11.37
+exp2 25 2500 true method2 19.083
+exp2 25 2500 100 method1 24.888
+exp2 25 2500 100 method2 23.491
+exp2 25 2500 500 method1 22.257
+exp2 25 2500 500 method2 22.257
+exp2 25 2500 true method1 13.409
+exp2 25 2500 true method2 17.871
+exp2 25 2500 100 method1 22.666
+exp2 25 2500 100 method2 21.705
+exp2 25 2500 500 method1 21.244
+exp2 25 2500 500 method2 21.244
+exp2 25 2500 true method1 13.797
+exp2 25 2500 true method2 28.862
+exp2 25 2500 100 method1 35.122
+exp2 25 2500 100 method2 35.46
+exp2 25 2500 500 method1 33.061
+exp2 25 2500 500 method2 33.061
+exp2 25 2500 true method1 11.617
+exp2 25 2500 true method2 16.592
+exp2 25 2500 100 method1 21.805
+exp2 25 2500 100 method2 20.539
+exp2 25 2500 500 method1 21.543
+exp2 25 2500 500 method2 21.543
+exp2 25 2500 true method1 9.584
+exp2 25 2500 true method2 10.427
+exp2 25 2500 100 method1 14.261
+exp2 25 2500 100 method2 13.696
+exp2 25 2500 500 method1 13.428
+exp2 25 2500 500 method2 13.428
+exp2 25 2500 true method1 11.287
+exp2 25 2500 true method2 13.559
+exp2 25 2500 100 method1 16.254
+exp2 25 2500 100 method2 14.894
+exp2 25 2500 500 method1 17.419
+exp2 25 2500 500 method2 17.419
+exp2 25 2500 true method1 11.259
+exp2 25 2500 true method2 18.86
+exp2 25 2500 100 method1 22.009
+exp2 25 2500 100 method2 21.007
+exp2 25 2500 500 method1 21.905
+exp2 25 2500 500 method2 21.905
+exp2 25 2500 true method1 11.919
+exp2 25 2500 true method2 18.775
+exp2 25 2500 100 method1 24.178
+exp2 25 2500 100 method2 22.874
+exp2 25 2500 500 method1 22.533
+exp2 25 2500 500 method2 22.533
+exp2 25 2500 true method1 11.89
+exp2 25 2500 true method2 31.982
+exp2 25 2500 100 method1 35.748
+exp2 25 2500 100 method2 43.737
+exp2 25 2500 500 method1 36.058
+exp2 25 2500 500 method2 36.058
+exp2 25 2500 true method1 13.174
+exp2 25 2500 true method2 47.989
+exp2 25 2500 100 method1 56.896
+exp2 25 2500 100 method2 55.019
+exp2 25 2500 500 method1 60.026
+exp2 25 2500 500 method2 60.026
+exp2 25 2500 true method1 11.042
+exp2 25 2500 true method2 13.322
+exp2 25 2500 100 method1 11.834
+exp2 25 2500 100 method2 12.198
+exp2 25 2500 500 method1 11.991
+exp2 25 2500 500 method2 11.991
+exp2 25 2500 true method1 11.526
+exp2 25 2500 true method2 16.927
+exp2 25 2500 100 method1 21.219
+exp2 25 2500 100 method2 20.166
+exp2 25 2500 500 method1 20.34
+exp2 25 2500 500 method2 20.34
+exp2 25 2500 true method1 12.098
+exp2 25 2500 true method2 15.289
+exp2 25 2500 100 method1 19.609
+exp2 25 2500 100 method2 18.093
+exp2 25 2500 500 method1 17.922
+exp2 25 2500 500 method2 17.922
+exp2 25 2500 true method1 12.071
+exp2 25 2500 true method2 13.892
+exp2 25 2500 100 method1 15.423
+exp2 25 2500 100 method2 14.878
+exp2 25 2500 500 method1 15.109
+exp2 25 2500 500 method2 15.109
+exp2 25 2500 true method1 12.744
+exp2 25 2500 true method2 13.578
+exp2 25 2500 100 method1 16.152
+exp2 25 2500 100 method2 14.452
+exp2 25 2500 500 method1 15.649
+exp2 25 2500 500 method2 15.649
+exp2 25 2500 true method1 12.159
+exp2 25 2500 true method2 28.806
+exp2 25 2500 100 method1 31.409
+exp2 25 2500 100 method2 37.575
+exp2 25 2500 500 method1 28.212
+exp2 25 2500 500 method2 28.212
+exp2 25 2500 true method1 11.829
+exp2 25 2500 true method2 18.489
+exp2 25 2500 100 method1 14.951
+exp2 25 2500 100 method2 16.42
+exp2 25 2500 500 method1 14.794
+exp2 25 2500 500 method2 14.794
+exp2 25 2500 true method1 11.888
+exp2 25 2500 true method2 16.437
+exp2 25 2500 100 method1 19.038
+exp2 25 2500 100 method2 17.559
+exp2 25 2500 500 method1 19.246
+exp2 25 2500 500 method2 19.246
+exp2 25 2500 true method1 12.655
+exp2 25 2500 true method2 20.254
+exp2 25 2500 100 method1 25.772
+exp2 25 2500 100 method2 20.429
+exp2 25 2500 500 method1 24.957
+exp2 25 2500 500 method2 24.957
+exp2 25 2500 true method1 14.269
+exp2 25 2500 true method2 18.221
+exp2 25 2500 100 method1 18.622
+exp2 25 2500 100 method2 17.295
+exp2 25 2500 500 method1 17.811
+exp2 25 2500 500 method2 17.811
+exp2 25 2500 true method1 11.301
+exp2 25 2500 true method2 20.494
+exp2 25 2500 100 method1 19.548
+exp2 25 2500 100 method2 19.535
+exp2 25 2500 500 method1 20.783
+exp2 25 2500 500 method2 20.783
+exp2 25 2500 true method1 11.709
+exp2 25 2500 true method2 17.235
+exp2 25 2500 100 method1 17.968
+exp2 25 2500 100 method2 19.71
+exp2 25 2500 500 method1 16.961
+exp2 25 2500 500 method2 16.961
+exp2 25 2500 true method1 12.415
+exp2 25 2500 true method2 23.241
+exp2 25 2500 100 method1 26.452
+exp2 25 2500 100 method2 26.803
+exp2 25 2500 500 method1 24.891
+exp2 25 2500 500 method2 24.891
+exp2 25 2500 true method1 12.3
+exp2 25 2500 true method2 24.962
+exp2 25 2500 100 method1 19.417
+exp2 25 2500 100 method2 23.852
+exp2 25 2500 500 method1 20.555
+exp2 25 2500 500 method2 20.555
+exp2 25 2500 true method1 13.269
+exp2 25 2500 true method2 17.599
+exp2 25 2500 100 method1 20.43
+exp2 25 2500 100 method2 20.101
+exp2 25 2500 500 method1 19.176
+exp2 25 2500 500 method2 19.176
+exp2 25 2500 true method1 13.316
+exp2 25 2500 true method2 15.458
+exp2 25 2500 100 method1 15.104
+exp2 25 2500 100 method2 13.683
+exp2 25 2500 500 method1 17.351
+exp2 25 2500 500 method2 17.351
+exp2 25 2500 true method1 12.263
+exp2 25 2500 true method2 17.258
+exp2 25 2500 100 method1 20.707
+exp2 25 2500 100 method2 18.285
+exp2 25 2500 500 method1 20.095
+exp2 25 2500 500 method2 20.095
+exp2 25 2500 true method1 12.574
+exp2 25 2500 true method2 24.642
+exp2 25 2500 100 method1 25.355
+exp2 25 2500 100 method2 26.665
+exp2 25 2500 500 method1 24.043
+exp2 25 2500 500 method2 24.043
+exp2 25 2500 true method1 11.666
+exp2 25 2500 true method2 13.033
+exp2 25 2500 100 method1 14.625
+exp2 25 2500 100 method2 13.533
+exp2 25 2500 500 method1 14.229
+exp2 25 2500 500 method2 14.229
+exp2 25 2500 true method1 11.357
+exp2 25 2500 true method2 12.488
+exp2 25 2500 100 method1 13.897
+exp2 25 2500 100 method2 12.949
+exp2 25 2500 500 method1 13.678
+exp2 25 2500 500 method2 13.678
+exp2 25 2500 true method1 11.642
+exp2 25 2500 true method2 16.831
+exp2 25 2500 100 method1 16.67
+exp2 25 2500 100 method2 17.533
+exp2 25 2500 500 method1 16.449
+exp2 25 2500 500 method2 16.449
+exp2 25 2500 true method1 12.211
+exp2 25 2500 true method2 20.268
+exp2 25 2500 100 method1 28.765
+exp2 25 2500 100 method2 31.259
+exp2 25 2500 500 method1 25.509
+exp2 25 2500 500 method2 25.509
+exp2 25 2500 true method1 11.573
+exp2 25 2500 true method2 13.932
+exp2 25 2500 100 method1 17.318
+exp2 25 2500 100 method2 15.394
+exp2 25 2500 500 method1 16.272
+exp2 25 2500 500 method2 16.272
+exp2 25 2500 true method1 12.987
+exp2 25 2500 true method2 14.279
+exp2 25 2500 100 method1 17.269
+exp2 25 2500 100 method2 16.292
+exp2 25 2500 500 method1 16.684
+exp2 25 2500 500 method2 16.684
+exp2 25 2500 true method1 13.203
+exp2 25 2500 true method2 28.987
+exp2 25 2500 100 method1 37.984
+exp2 25 2500 100 method2 35.65
+exp2 25 2500 500 method1 32.991
+exp2 25 2500 500 method2 32.991
+exp2 25 2500 true method1 11.229
+exp2 25 2500 true method2 14.521
+exp2 25 2500 100 method1 17.279
+exp2 25 2500 100 method2 16.341
+exp2 25 2500 500 method1 16.323
+exp2 25 2500 500 method2 16.323
+exp2 25 2500 true method1 11.749
+exp2 25 2500 true method2 13.252
+exp2 25 2500 100 method1 15.822
+exp2 25 2500 100 method2 13.94
+exp2 25 2500 500 method1 15.739
+exp2 25 2500 500 method2 15.739
+exp2 25 2500 true method1 11.731
+exp2 25 2500 true method2 32.057
+exp2 25 2500 100 method1 27.319
+exp2 25 2500 100 method2 38.893
+exp2 25 2500 500 method1 23.478
+exp2 25 2500 500 method2 23.478
+exp2 25 2500 true method1 12.761
+exp2 25 2500 true method2 25.714
+exp2 25 2500 100 method1 28.097
+exp2 25 2500 100 method2 33.992
+exp2 25 2500 500 method1 25.239
+exp2 25 2500 500 method2 25.239
+exp2 25 2500 true method1 11.423
+exp2 25 2500 true method2 13.844
+exp2 25 2500 100 method1 16.173
+exp2 25 2500 100 method2 15.122
+exp2 25 2500 500 method1 15.497
+exp2 25 2500 500 method2 15.497
+exp2 25 2500 true method1 11.738
+exp2 25 2500 true method2 18.345
+exp2 25 2500 100 method1 22.347
+exp2 25 2500 100 method2 21.84
+exp2 25 2500 500 method1 20.651
+exp2 25 2500 500 method2 20.651
+exp2 25 2500 true method1 11.684
+exp2 25 2500 true method2 15.431
+exp2 25 2500 100 method1 18.929
+exp2 25 2500 100 method2 17.036
+exp2 25 2500 500 method1 17.212
+exp2 25 2500 500 method2 17.212
+exp2 25 2500 true method1 14.111
+exp2 25 2500 true method2 20.198
+exp2 25 2500 100 method1 22.44
+exp2 25 2500 100 method2 20.318
+exp2 25 2500 500 method1 22.434
+exp2 25 2500 500 method2 22.434
+exp2 25 2500 true method1 12.405
+exp2 25 2500 true method2 28.685
+exp2 25 2500 100 method1 33.031
+exp2 25 2500 100 method2 37.456
+exp2 25 2500 500 method1 31.317
+exp2 25 2500 500 method2 31.317
+exp2 25 2500 true method1 11.487
+exp2 25 2500 true method2 13.826
+exp2 25 2500 100 method1 12.729
+exp2 25 2500 100 method2 13.04
+exp2 25 2500 500 method1 14.1
+exp2 25 2500 500 method2 14.1
+exp2 25 2500 true method1 12.911
+exp2 25 2500 true method2 15.559
+exp2 25 2500 100 method1 19.265
+exp2 25 2500 100 method2 19.595
+exp2 25 2500 500 method1 16.971
+exp2 25 2500 500 method2 16.971
+exp2 25 2500 true method1 10.855
+exp2 25 2500 true method2 11.139
+exp2 25 2500 100 method1 11.444
+exp2 25 2500 100 method2 11.324
+exp2 25 2500 500 method1 11.446
+exp2 25 2500 500 method2 11.446
+exp2 25 2500 true method1 11.992
+exp2 25 2500 true method2 20.919
+exp2 25 2500 100 method1 22.733
+exp2 25 2500 100 method2 22.09
+exp2 25 2500 500 method1 24.222
+exp2 25 2500 500 method2 24.222
+exp2 25 2500 true method1 13.632
+exp2 25 2500 true method2 40.048
+exp2 25 2500 100 method1 23.86
+exp2 25 2500 100 method2 36.235
+exp2 25 2500 500 method1 22.156
+exp2 25 2500 500 method2 22.156
+exp2 25 2500 true method1 12.055
+exp2 25 2500 true method2 15.523
+exp2 25 2500 100 method1 17.841
+exp2 25 2500 100 method2 17.259
+exp2 25 2500 500 method1 16.651
+exp2 25 2500 500 method2 16.651
