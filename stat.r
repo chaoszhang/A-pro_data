@@ -1,4 +1,4 @@
-require(reshape2); require(ggplot2); require(scales)
+require(reshape2); require(ggplot2); require(scales);
 
 mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "PF" = "method1", "PL" ="method2" )
 
@@ -77,22 +77,41 @@ names(e1s)[5]="runTime"
 names(e1s)[6:10]=c("t0", "t1","t2","t3","RF")
 head(e1s)
 
-ggplot( aes(x=runTime/60, y=RF, color=as.factor(V2),group=V4,shape=V4), data=e1s[e1s$V5=="PL",])+
-  geom_point()+
+ggplot( aes(x=runTime/60, y=RF,color=V4,group=V4), data=e1s[e1s$V5=="PL",])+
+  geom_point(aes(size=(V2)))+
   geom_line( )+
   #stat_summary(geom="line")+
-  #scale_x_continuous(breaks=unique(e1a$V2))+
+  scale_x_log10()+
   xlab("running time (minutes)")+ylab("Species tree error (NRF)")+
-  scale_color_brewer(palette = 1)+
+  scale_color_brewer(palette = "Dark2",name="Gene trees",labels=function(x) sub("true","true gt",sub("00","00 bp",x)))+
+  scale_size(name=expression(n),breaks=unique(e1s$V2))+
   theme_bw()#+coord_cartesian(ylim=c(0,0.15))
+ggsave("E1.pdf",width=3.5,height = 3.5)
 
-ggplot( aes(x=V2, y=V8, color=V5,shape=V4,linetype=V4), data=e1a[e1a$V5=="PL",])+
+ggplot( aes(x=V2, y=V8, color=V4), data=e1a[e1a$V5=="PL",])+
   stat_summary()+
   stat_summary(geom="line")+
-  scale_x_continuous(breaks=unique(e1a$V2))+
+  scale_x_log10(breaks=unique(e1a$V2))+
   xlab("n")+ylab("Species tree error (NRF)")+
-  theme_bw()#+coord_cartesian(ylim=c(0,0.15))
+  scale_color_brewer(palette = "Dark2",name="Gene trees",labels=function(x) sub("true","true gt",sub("00","00 bp",x)))+
+  theme_bw()+theme(legend.position = c(.2,.8))
+ggsave("E1-acc.pdf",width=3.5,height = 3.5)
 
+ggplot( aes(x=V2, y=runTime/60,color=V4), data=e1[e1$V5=="PL",])+
+  stat_summary()+
+  stat_smooth(method="lm",se=F,show.legend = T, data=e1[e1$V5=="PL"&e1$V2>25,])+
+  scale_x_log10(breaks=unique(e1a$V2))+
+  scale_y_log10()+
+  xlab("n")+ylab("running time (minutes) with 28 cores")+
+  scale_color_brewer(palette = "Dark2",name="Gene trees",labels=function(x) sub("true","true gt",sub("00","00 bp",x)))+
+  theme_bw()+theme(legend.position = c(.2,.8))+
+  annotate(label=format(lm(log(runTime)~log(V2),data=e1[e1$V5=="PL" & e1$V4 == "500"& e1$V2>25,])[[1]][[2]],digits=2),
+           geom="text",y=1.2,x=130,color="darkorange3")+
+  annotate(label=format(lm(log(runTime)~log(V2),data=e1[e1$V5=="PL" & e1$V4 == "100"& e1$V2>25,])[[1]][[2]],digits=2),
+           geom="text",y=6,x=130,color="darkgreen")+
+  annotate(label=format(lm(log(runTime)~log(V2),data=e1[e1$V5=="PL" & e1$V4 == "true"& e1$V2>25,])[[1]][[2]],digits=2),
+           geom="text",y=15,x=340,color="darkorchid4")
+ggsave("E1-time.pdf",width=3.5,height = 3.5)
 
 ########################################
 
@@ -123,10 +142,10 @@ ggplot( aes(x=runTime/60, y=RF, color=as.factor(V4),group=V4,), data=e2s[e2s$V5=
   theme_bw()
 ggsave("E2.pdf",width = 4.5,height = 3.5)
 
-ggplot( aes(x=V2, y=V8, color=V5,shape=V4,linetype=V4), data=e2a[e2a$V5=="PL",])+
+ggplot( aes(x=V3, y=V8, color=V5,shape=V4,linetype=V4), data=e2a[e2a$V5=="PL",])+
   stat_summary()+
   stat_summary(geom="line")+
-  scale_x_continuous(breaks=unique(e2a$V2))+
+  #scale_x_continuous(breaks=unique(e2a$V2))+
   xlab("n")+ylab("Species tree error (NRF)")+
   theme_bw()#+coord_cartesian(ylim=c(0,0.15))
 
