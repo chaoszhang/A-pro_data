@@ -1,44 +1,47 @@
 require(reshape2); require(ggplot2); require(scales);
 
-mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "PF" = "method1", "PL" ="method2" )
+mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "PF" = "method1", "A-Pro" ="method2" )
 
 experiment="E3"
-d= read.csv("stats3.nodash.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
-head(d)
+d= read.csv("stat3.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
 levels(d$V5) = mr
+head(d)
 
+names(d)[2] = "Dup"
+names(d)[3] = "Loss/Dup"
 
-ggplot(aes(x=interaction(V3,V2,sep=" "),y=V8,color=as.factor(V5),group=as.factor(V5)),data=d)+
+ggplot(aes(x=interaction(Loss/Dup,DupRate,sep=" "),y=V8,color=as.factor(V5),group=as.factor(V5)),data=d)+
   stat_summary(geom="line")+
   stat_summary()+
   facet_wrap(~V4,scales="free_x")+coord_cartesian(ylim=c(0,0.1))+  
   scale_color_brewer(palette = "Paired")+
   xlab("Condition")+ylab("Species tree error (NRF)")+
-  theme_bw()+
+  theme_bw()
 
-ggplot(aes(x=V3,y=V8,color=V5,group=V5),data=d)+
+ggplot(aes(x=Loss/Dup,y=V8,color=V5,group=V5),data=d)+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary()+
-  facet_grid(V4~V2,scales="free_y")+coord_cartesian(ylim=c(0,0.15))+
+  facet_grid(V4~DupRate,scales="free_y")+#coord_cartesian(ylim=c(0,0.15))+
   scale_color_brewer(palette = "Paired")+
   theme_bw()
 
 
-ggplot(aes(x=V4,y=V8,color=V5,group=V5),data=d)+
+ggplot(aes(x=V4,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
   stat_summary(geom="line")+
   #geom_boxplot()+
-  stat_summary(size=.2,fatten=5)+
-  facet_grid(V3~V2,scales="free_y")+coord_cartesian(ylim=c(0,0.15))+
-  scale_color_brewer(palette = "Paired",name="")+
+  stat_summary(geom="errorbar",width=0.22)+
+  stat_summary(geom="point",size=1)+
+  facet_grid(`λ-/λ+`~`λ+`,scales="free_y",labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
+  scale_color_brewer(palette = "Set2",name="")+
   xlab("Gene alignment length")+ylab("Species tree error (NRF)")+
-  theme_bw()+theme(legend.position = "bottom")
-ggsave("E3.pdf",width = 6,height = 5)
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))
+ggsave("E3.eps",width = 7,height = 7)
 
-summary(aov(V8~V5*(V2+V3+V4),d[d$V5 %in% c("PL","DupTree") &!d$V2 %in% c("5","0"),]))
+summary(aov(V8~V5*(DupRate+Loss/Dup+V4),d[d$V5 %in% c("PL","DupTree") &!d$DupRate %in% c("5","0"),]))
 
-dcast(formula =V2+V3+V4~V5 ,data=d[c(1:5,8)])
-dcast(formula =V4+V2+V3~V5 ,data=d[c(1:5,8)],fun.aggregate = mean)
+dcast(formula =DupRate+Loss/Dup+V4~V5 ,data=d[c(1:5,8)])
+dcast(formula =V4+DupRate+Loss/Dup~V5 ,data=d[c(1:5,8)],fun.aggregate = mean)
 
 
 d2= read.csv("exp4.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
