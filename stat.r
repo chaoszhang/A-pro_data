@@ -1,19 +1,27 @@
 require(reshape2); require(ggplot2); require(scales);
 
 mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "PF" = "method1", "A-Pro" ="method2" )
+gt = list("Est. (100bp)" = "100", "Est. (500bp)" = "500",  "true" ="true" )
+lrates = list('0'="0", '0.1'="01",  '0.5'="05", '1'="1")
+drates = list('0'="0",  '0.2'="02", '1'="1", '2'="2", '5'="5")
+
 
 experiment="E3"
 d= read.csv("stat3.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
 levels(d$V5) = mr
+levels(d$V4)=gt
+levels(d$V2)=drates
+levels(d$V3)=lrates
 head(d)
 
 names(d)[2] = "Dup"
 names(d)[3] = "Loss/Dup"
+names(d)[4] = "Input"
 
 ggplot(aes(x=interaction(Loss/Dup,DupRate,sep=" "),y=V8,color=as.factor(V5),group=as.factor(V5)),data=d)+
   stat_summary(geom="line")+
   stat_summary()+
-  facet_wrap(~V4,scales="free_x")+coord_cartesian(ylim=c(0,0.1))+  
+  facet_wrap(~Input,scales="free_x")+coord_cartesian(ylim=c(0,0.1))+  
   scale_color_brewer(palette = "Paired")+
   xlab("Condition")+ylab("Species tree error (NRF)")+
   theme_bw()
@@ -27,16 +35,27 @@ ggplot(aes(x=Loss/Dup,y=V8,color=V5,group=V5),data=d)+
   theme_bw()
 
 
-ggplot(aes(x=V4,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
+ggplot(aes(x=Input,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(geom="errorbar",width=0.22)+
   stat_summary(geom="point",size=1)+
-  facet_grid(`λ-/λ+`~`λ+`,scales="free_y",labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
+  facet_grid(`Loss/Dup`~`Dup`,scales="free_y",labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
   scale_color_brewer(palette = "Set2",name="")+
   xlab("Gene alignment length")+ylab("Species tree error (NRF)")+
   theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))
-ggsave("E3.eps",width = 7,height = 7)
+ggsave("E3-2.pdf",width = 7,height = 7)
+
+ggplot(aes(x=`Loss/Dup` ,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
+  stat_summary(geom="line")+
+  #geom_boxplot()+
+  stat_summary(geom="errorbar",width=0.22)+
+  stat_summary(geom="point",size=1)+
+  facet_grid(`Input`~`Dup`,scales="free_x",space="free_x",labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
+  scale_color_brewer(palette = "Set2",name="")+
+  xlab("Loss/Dup rate")+ylab("Species tree error (NRF)")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))
+ggsave("E3.pdf",width = 7,height = 5.4)
 
 summary(aov(V8~V5*(DupRate+Loss/Dup+V4),d[d$V5 %in% c("PL","DupTree") &!d$DupRate %in% c("5","0"),]))
 
@@ -44,20 +63,38 @@ dcast(formula =DupRate+Loss/Dup+V4~V5 ,data=d[c(1:5,8)])
 dcast(formula =V4+DupRate+Loss/Dup~V5 ,data=d[c(1:5,8)],fun.aggregate = mean)
 
 
-d2= read.csv("exp4.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
+d2= read.csv("stat_exp4.stat",sep=" ",header = F,colClasses = c("factor","factor","factor","factor","factor","numeric","numeric","numeric"))
 head(d2)
 levels(d2$V5) = mr
+levels(d2$V4)=gt
+levels(d2$V2)=drates
+names(d2)[2] = "Dup"
+names(d2)[3] = "ILS"
+names(d2)[4] = "Input"
+head(d)
 
-ggplot(aes(x=V3,y=V8,color=V4,linetype=V5,group=interaction(V5,V4)),data=d2)+
+ggplot(aes(x=ILS,y=V8,color=Input,linetype=V5,group=interaction(V5,Input)),data=d2)+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(size=.2,fatten=5)+
-  facet_grid(.~V2,scales="free_y")+#coord_cartesian(ylim=c(0,0.15))+
+  facet_grid(.~Dup,scales="free_y")+#coord_cartesian(ylim=c(0,0.15))+
   scale_color_brewer(palette = "Dark2",name="")+
-  scale_linetype_manual(values = c(3,1),name="")+
+  scale_linetype_manual(values = c(3,1,2,4),name="")+
   xlab("ILS")+ylab("Species tree error (NRF)")+
   theme_bw()+theme(legend.position = c(.25,.82),legend.direction = "horizontal")
-ggsave("E4.pdf",width = 5.5,height = 3.5)
+ggsave("E4-3.pdf",width = 5.5,height = 3.5)
+
+
+ggplot(aes(x=ILS,y=V8,color=V5,group=V5),data=d2[!d2$V5 %in% c("PF"),])+
+  stat_summary(geom="line")+
+  #geom_boxplot()+
+  stat_summary(geom="errorbar",width=0.22)+
+  stat_summary(geom="point",size=1)+
+  facet_grid(`Gene trees`~`Dup`,labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
+  scale_color_brewer(palette = "Set2",name="")+
+  xlab("ILS level (RF%)")+ylab("Species tree error (NRF)")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))
+ggsave("E4.pdf",width = 5.5,height = 5.5)
 
 
 dcast(formula =V2+V3+V4~V5 ,data=d2[c(1:5,8)],fun.aggregate = mean)
