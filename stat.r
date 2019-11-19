@@ -1,6 +1,6 @@
 require(reshape2); require(ggplot2); require(scales);
 
-mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "iGTP-Losses"="losses","PF" = "method1", "A-Pro" ="method2" )
+mr = list("MulRF" = "mulrf", "DupTree" = "duptree", "iGTP-Losses"="losses","PF" = "method1", "A-Pro" ="method2","ASTRAL-multi"="multi")
 gt = list("Est. (100bp)" = "100", "Est. (500bp)" = "500",  "true" ="true" )
 lrates = list('0'="0", '0.1'="01",  '0.5'="05", '1'="1")
 drates = list('0'="0",  '0.2'="02", '1'="1", '2'="2", '5'="5")
@@ -35,7 +35,7 @@ ggplot(aes(x=Loss/Dup,y=V8,color=V5,group=V5),data=d)+
   theme_bw()
 
 
-ggplot(aes(x=Input,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
+ggplot(aes(x=Input,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF","iGTP-Losses"),])+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(geom="errorbar",width=0.22)+
@@ -46,7 +46,7 @@ ggplot(aes(x=Input,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
   theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))
 ggsave("E3-2.pdf",width = 7,height = 7)
 
-ggplot(aes(x=`Loss/Dup` ,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF"),])+
+ggplot(aes(x=`Loss/Dup` ,y=V8,color=V5,group=V5),data=d[!d$V5 %in% c("PF","iGTP-Losses"),])+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(geom="errorbar",width=0.22)+
@@ -95,7 +95,7 @@ ggplot(aes(x=ILS,y=V8,color=Input,linetype=V5,group=interaction(V5,Input)),data=
 ggsave("E4-3.pdf",width = 5.5,height = 3.5)
 
 
-ggplot(aes(x=ILS,y=V8,color=V5,group=V5),data=d2[!d2$V5 %in% c("PF"),])+
+ggplot(aes(x=ILS,y=V8,color=V5,group=V5),data=d2[!d2$V5 %in% c("PF","iGTP-Losses"),])+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(geom="errorbar",width=0.22)+
@@ -109,18 +109,17 @@ ggsave("E4.pdf",width = 4,height = 5.4)
 
 d2$`Loss/Dup`=1
 d$ILS=70
-
 ggplot(aes(x=Dup,y=V8,color=V5,group=V5),data=rbind(d2[d2$V5 %in% c("DupTree","iGTP-Losses"),],d[d$V5 %in% c("DupTree","iGTP-Losses"),]))+
   stat_summary(geom="line")+
   #geom_boxplot()+
   stat_summary(geom="errorbar",width=0.22)+
   stat_summary(geom="point",size=1)+
   facet_grid(`Input`~`Loss/Dup`+ILS,labeller = label_both)+#coord_cartesian(ylim=c(0,0.15))+
-  scale_color_brewer(palette = "Set2",name="")+
-  xlab("ILS level (RF%)")+ylab("Species tree error (NRF)")+
+  scale_color_brewer(palette = "Paired",name="")+
+  xlab("Dup (C)")+ylab("Species tree error (NRF)")+
   theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
   scale_y_continuous(labels=percent)
-ggsave("dup-iGTP-Losses.pdf",width = 4,height = 5.4)
+ggsave("dup-iGTP-Losses.pdf",width = 7,height = 5.4)
 
 
 summary(aov(V8~V5*(as.numeric(as.character(Dup))+as.numeric(as.character(ILS))),
@@ -242,3 +241,52 @@ ggplot( aes(x=V3, y=runTime/60,color=V4), data=e2s[e2s$V5=="A-Pro",])+
   annotate(label=format(lm(log(runTime)~log(V3),data=e2s[e2s$V5=="A-Pro" & e2s$V4 == "true"& e2s$V3>=1000,])[[1]][[2]],digits=2),
            geom="text",y=1.3,x=3400,color="darkorchid4")
 ggsave("E2-time.pdf",width=4.5,height = 3.5)
+
+
+s = (read.csv('data-accuracy-and-timings-ntaxa-100.csv'))
+levels(s$MTHD) =  list("MulRF" = "mulrf", "DupTree" = "duptree", "A-Pro" ="apro","ASTRAL-multi"="astral-multi", "FastMulRFS"="fastmulrfs-single","Astrid" = "astrid","STAG"="stag")
+
+names(s)[5]="Seq Len"
+names(s)[6]="k"
+names(s)[2]="Ne"
+
+s[s$SQLN == 0,"SQLN"] = Inf
+s$Model=interaction(s$DLRT*10^10,s$Ne/10000000,sep="/")
+
+ggplot(aes(y=SERF,x=Model,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
+  facet_grid(`Seq Len`~k,labeller = label_both,scales="free")+
+  stat_summary(size=0.3)+stat_summary(geom="line")+
+  scale_y_continuous(labels=percent, name="Species tree error (NRF)")+
+  scale_color_brewer(palette = "Set2",name="")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
+  scale_x_discrete(name="Duplication Rate / ILS level")
+ggsave("results-100taxa.pdf",width=8,height = 7)
+
+
+ggplot(aes(y=SERF,x=k,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
+  facet_grid(`Seq Len`~Model,labeller = label_both,scales="free")+
+  stat_summary(geom="errorbar",width=0.1)+stat_summary(size=0.051)+stat_summary(geom="line")+
+  scale_y_continuous(labels=percent, name="Species tree error (NRF)")+
+  scale_color_brewer(palette = "Set2",name="")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
+  scale_x_log10(breaks=c(25,50,100,500))
+ggsave("results-100taxa-2.pdf",width=8,height = 7)
+
+ggplot(aes(y=SECS/60,x=interaction(DLRT*10^10,Ne/10000000,sep="/"),group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
+  facet_grid(`Seq Len`~k,labeller = label_both,scales="free")+
+  stat_summary(size=0.1,width=1)+stat_summary(geom="line")+
+  scale_y_log10(name="Running time (minutes)")+
+  scale_color_brewer(palette = "Set2",name="")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
+  scale_x_discrete(name="Duplication Rate / ILS level")
+ggsave("runningtimes-100taxa.pdf",width=8,height = 7)
+
+
+ggplot(aes(y=SERF,x=k,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
+  facet_grid(`Seq Len`~interaction(DLRT*10^10,Ne/10000000,sep="/"),scales="free")+
+  stat_summary(size=0.3)+stat_summary(geom="line")+
+  scale_y_continuous(labels=percent, name="Species tree error (NRF)")+
+  scale_color_brewer(palette = "Set2",name="")+
+  theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
+  scale_x_log10(breaks=c(25,50,100,500))
+ggsave("runningtime-100taxa-2.pdf",width=8,height = 7)
