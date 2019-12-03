@@ -244,7 +244,7 @@ ggsave("E2-time.pdf",width=4.5,height = 3.5)
 
 
 s = (read.csv('data-accuracy-and-timings-ntaxa-100.csv'))
-levels(s$MTHD) =  list("MulRF" = "mulrf", "DupTree" = "duptree", "A-Pro" ="apro","ASTRAL-multi"="astral-multi", "FastMulRFS"="fastmulrfs-single","Astrid" = "astrid","STAG"="stag")
+levels(s$MTHD) =  list("MulRF" = "mulrf", "DupTree" = "duptree", "A-Pro" ="apro","A-Pro*"="apro-w-true","ASTRAL-multi"="astral-multi", "FastMulRFS"="fastmulrfs-single","Astrid" = "astrid","STAG"="stag")
 
 names(s)[5]="Seq Len"
 names(s)[6]="k"
@@ -270,7 +270,7 @@ ggplot(aes(y=SERF,x=k,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astri
   scale_color_brewer(palette = "Set2",name="")+
   theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
   scale_x_log10(breaks=c(25,50,100,500))
-ggsave("results-100taxa-2.pdf",width=8,height = 7)
+ggsave("results-100taxa-2-withtrue.pdf",width=8,height = 7)
 
 ggplot(aes(y=SECS/60,x=interaction(DLRT*10^10,Ne/10000000,sep="/"),group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
   facet_grid(`Seq Len`~k,labeller = label_both,scales="free")+
@@ -282,10 +282,10 @@ ggplot(aes(y=SECS/60,x=interaction(DLRT*10^10,Ne/10000000,sep="/"),group=MTHD,co
 ggsave("runningtimes-100taxa.pdf",width=8,height = 7)
 
 
-ggplot(aes(y=SERF,x=k,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
-  facet_grid(`Seq Len`~interaction(DLRT*10^10,Ne/10000000,sep="/"),scales="free")+
-  stat_summary(size=0.3)+stat_summary(geom="line")+
-  scale_y_continuous(labels=percent, name="Species tree error (NRF)")+
+ggplot(aes(y=SECS/60,x=k,group=MTHD,color=MTHD),data=s[!s$MTHD %in% c("STAG","Astrid"),])+
+  facet_grid(`Seq Len`~Model,labeller = label_both,scales="free")+
+  stat_summary(geom="errorbar",width=0.1)+stat_summary(size=0.051)+stat_summary(geom="line")+
+  scale_y_log10( name="Running time (minutes)")+
   scale_color_brewer(palette = "Set2",name="")+
   theme_classic()+theme(legend.position = "bottom",panel.border  = element_rect(fill=NA,size = 1))+
   scale_x_log10(breaks=c(25,50,100,500))
