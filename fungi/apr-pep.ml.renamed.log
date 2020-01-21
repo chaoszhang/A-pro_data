@@ -1,0 +1,65 @@
+
+================== ASTRAL-Pro ===================== 
+
+This is ASTRAL-Pro (A-Pro) version 1.1.2
+Using native AVX batch computing.
+Gene trees are treated as unrooted
+There are 4 threads used to run.
+The number of input tree read is 7180
+92752 trees read from pep.ml.renamed.trees
+8190 extra trees.
+All output trees will be *arbitrarily* rooted at scer
+
+======== Running the main analysis
+Number of taxa: 16 (16 species)
+Taxa: [scer, spar, smik, sbay, cgla, klac, agos, kwal, scas, dhan, cgui, clus, lelo, cpar, calb, ctro]
+Taxon occupancy: {ctro=67852, kwal=64808, agos=57776, scer=67519, smik=68449, clus=63895, lelo=65123, cpar=66004, klac=62561, sbay=68998, cgui=64687, cgla=61577, scas=57445, calb=68944, spar=69477, dhan=66736}
+Using polytree-based weight calculation.
+Number of gene trees: 92752
+61725 trees have missing taxa
+Calculating distance matrix (for completion of X) ....with 4 distance matrices in parallel
+Species tree distances calculated ...
+
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+------------------------------
+Number of Clusters after addition by distance: 631
+Adding to X using resolutions of greedy consensus ...
+
+Computing greedy consensus  took 3 seconds
+Limit for sigma of degrees:450
+
+polytomy size limit : > 3
+ []
+discarded polytomies: 
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+Number of Clusters after addition by greedy: 631
+calculating extra bipartitions from extra input trees ...
+Number of Clusters after additions from extra trees: 639
+partitions formed in 20.988 secs
+Dynamic Programming starting after 20.989 secs
+Polytree max score: 5727851
+Polytree building time: 1.866 seconds.
+Number of quartet trees in the gene trees: 5727851
+Computing hash values took 0 seconds
+Size of largest cluster: 16
+Total Number of elements: 1790
+Final optimization score: 0
+Size of largest cluster: 16
+1791 0 1790
+Total Number of elements: 1790
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8852368890182374
+Final optimization score: 5070505
+Optimal tree inferred in 24.509 secs.
+Weight calculation cumulatively took 0.207199429 secs
+(scer,(spar,(smik,(sbay,(scas,(cgla,((((lelo,cpar),(calb,ctro)),(clus,(dhan,cgui))),(kwal,(klac,agos)))))))));
+Final quartet score is: 5070505
+Final normalized quartet score is: 0.8852368890182374
+(scer,(spar,(smik,(sbay,(scas,(cgla,((((lelo,cpar)1:1.607830336534778,(calb,ctro)1:2.088125743898451)1:1.9527794338753495,(clus,(dhan,cgui)1:0.33297050391099026)1:0.2503340237226819)1:5.564550466272953,(kwal,(klac,agos)1:0.26460666616012907)1:0.313995108445368)1:1.2192378948516702)1:0.22366468930544245)1:4.500868638214315)1:1.0800681864762443)1:1.3104669010172236));
+ASTRAL-Pro finished in 30.417 secs

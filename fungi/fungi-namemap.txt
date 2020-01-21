@@ -1,0 +1,17 @@
+code	name
+calb	Candida alibicans
+ctro	Candida tropicalis
+cpar	Candida parapsilosis
+lelo	Lodderomyces elongisporus
+cgui	Candida guilliermondii
+dhan	Debaryomyces hansenii
+clus	Candida lusitaniae
+scer	Saccharomyces cerevisiae
+spar	Saccharomyces paradoxus
+smik	Saccharomyces mikatae
+sbay	Saccharomyces bayanus
+cgla	Candida glabrata
+scas	Saccharomyces castellii
+klac	Kluyveromyces latics
+agos	Ashbya gossypii
+kwal	Kluyveromyces waltii
